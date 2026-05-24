@@ -1,5 +1,7 @@
 # Mapa wiki - Szachowy mentor
 
+Render interaktywny na GitHub Pages jest wymuszony skryptem na dole strony.
+
 ```mermaid
 flowchart TD
   ROOT[Wiki INDEX] --> AIDX[Artykuly INDEX]
@@ -10,6 +12,10 @@ flowchart TD
 
   AIDX --> FIGLE[figle]
   FIGLE --> ZAMR[2025-12-05-chlopa-zamrozilo.md]
+  FIGLE --> CZOLG[2025-12-06-czolgi-na-ulicy-i-kolejne-figle.md]
+  FIGLE --> SONG[2025-12-06-song-requesty-trollerskie-i-dwie-piosenki.md]
+  FIGLE --> HAXB[2025-12-06-ban-mentora-z-wlasnego-lobby-haxball.md]
+  FIGLE --> AUM[2025-12-06-koniec-among-us-na-streamach-mentora.md]
   FIGLE --> WYD[2025-12-wydarzenia.md]
   FIGLE --> CZYT[2025-12-27-kacik-czytelniczy.md]
   FIGLE --> KAC26[2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md]
@@ -25,6 +31,7 @@ flowchart TD
   INW --> FIN[cele-finansowe-i-inwestycyjne-mentora.md]
 
   AIDX --> ZWI[zwiazki]
+  ZWI --> ATOM[2025-12-06-atomowka-na-discordzie-i-wymog-50-wiadomosci.md]
   ZWI --> SPOR[2025-12-spory-z-moderacja.md]
   ZWI --> ODA26[2026-02-oda-do-koisuru-i-wywiad.md]
 
@@ -74,6 +81,10 @@ flowchart TD
   PROFIL --> POS
 
   ZAMR --> WYD
+  CZOLG --> SONG
+  CZOLG --> HAXB
+  CZOLG --> AUM
+  CZOLG --> ATOM
   WYD --> CZYT
   WYD --> SPOR
   BOTY --> WYD
@@ -90,3 +101,30 @@ flowchart TD
   POM --> ODA26
   AUT --> WAF
 ```
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (typeof mermaid === "undefined") {
+    return;
+  }
+
+  mermaid.initialize({
+    startOnLoad: false,
+    securityLevel: "loose",
+    theme: "default"
+  });
+
+  const blocks = document.querySelectorAll("pre > code.language-mermaid, pre > code.mermaid");
+  blocks.forEach((code, idx) => {
+    const pre = code.parentElement;
+    const wrapper = document.createElement("div");
+    wrapper.className = "mermaid";
+    wrapper.id = "mermaid-diagram-" + idx;
+    wrapper.textContent = code.textContent;
+    pre.replaceWith(wrapper);
+  });
+
+  mermaid.run({ querySelector: ".mermaid" });
+});
+</script>
