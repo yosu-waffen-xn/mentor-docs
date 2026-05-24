@@ -1,0 +1,13 @@
+﻿{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Wiki: Check markdown links",
+      "type": "shell",
+      "command": "powershell",
+      "args": ["-NoProfile", "-Command", "& { \$root='wiki'; \$md=Get-ChildItem -Path \$root -Recurse -Filter *.md; \$broken=@(); foreach(\$f in \$md){ \$content=Get-Content -Raw -Path \$f.FullName; \$matches=[regex]::Matches(\$content,'\\[[^\\]]+\\]\\(([^)]+)\\)'); foreach(\$m in \$matches){ \$target=\$m.Groups[1].Value.Trim(); if(\$target -match '^(https?:|mailto:|#)'){ continue }; \$target=\$target.Split('#')[0]; if([string]::IsNullOrWhiteSpace(\$target)){ continue }; \$resolved=Join-Path \$f.DirectoryName \$target; if(-not (Test-Path -LiteralPath \$resolved)){ \$broken += [pscustomobject]@{File=\$f.FullName;Link=\$m.Groups[1].Value} } } }; Write-Host \"BROKEN_COUNT=\$(\$broken.Count)\"; if(\$broken.Count -gt 0){\$broken|Sort-Object File,Link|Format-Table -AutoSize} }"],
+      "group": {"kind": "test", "isDefault": false},
+      "problemMatcher": []
+    }
+  ]
+}

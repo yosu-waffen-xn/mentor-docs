@@ -15,7 +15,7 @@ Uczestnik konfliktow wewnetrznych, przywolywany w opisach dysharmonii i rozjedna
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

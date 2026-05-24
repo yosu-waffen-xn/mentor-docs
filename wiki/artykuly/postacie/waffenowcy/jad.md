@@ -22,5 +22,5 @@ Opis koncentrowal sie na konkretach zakupowych i reakcji czatu podczas testu na 
 
 ## Powiazania
 
-- [2025-12 - zakup Sodastream i relacja ze streama](../odzywianie/2025-12-kacik-malego-agd.md)
+- [2025-12 - zakup Sodastream i relacja ze streama](../../odzywianie/2025-12-kacik-malego-agd.md)
 - [Rejestr autorstw artykulow](autorstwa-artykulow.md)

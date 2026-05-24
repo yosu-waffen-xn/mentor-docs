@@ -23,7 +23,7 @@ Zbior postaci zaliczanych do grupy "starokurwy" (OG) - starsze pokolenie osob za
 ## Linki i klipy
 
 - materialy zrodlowe w artykulach dotyczacych serwerow i administracji
-- patrz [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

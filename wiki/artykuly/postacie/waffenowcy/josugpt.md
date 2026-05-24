@@ -22,5 +22,5 @@ Podpis "Red. JosuGPT" wystepuje bezposrednio pod tym segmentem.
 
 ## Powiazania
 
-- [2026-02 - kaciki specjalne: cosplay, dobranocka, walentynki i Wiedzmin 3](../figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
+- [2026-02 - kaciki specjalne: cosplay, dobranocka, walentynki i Wiedzmin 3](../../figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
 - [Rejestr autorstw artykulow](autorstwa-artykulow.md)

@@ -21,8 +21,8 @@ Zbior postaci z bezposredniego otoczenia Szachowego Mentora, jego moderatorow i 
 
 ## Linki i klipy
 
-- patrz artykuly główne w kategorii [Szachowy mentor](../../../profil/szachowy-mentor.md)
-- materialy źrodłowe w [Figle](../../../figle/) i [Zwiazki](../../../zwiazki/)
+- patrz artykuly główne w kategorii [Szachowy mentor](../../profil/szachowy-mentor.md)
+- materialy źrodłowe w [Figle](../../figle/) i [Zwiazki](../../zwiazki/)
 
 ## Powiazania
 

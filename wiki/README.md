@@ -85,7 +85,7 @@ Artykuły:
 - [AI instrukcje - README](ai-instrukcje/README.md) - jak pracować z wiki przy użyciu AI
 - [STRUKTURA](ai-instrukcje/STRUKTURA.md) - zasady organizacji zawartości
 - [REDAKCJA](ai-instrukcje/REDAKCJA.md) - standardy edycji i konsystencji
-- [AUTORSTWA](ai-instrukcje/AUTORSTWA.md) - rejestr autorów
+- [AUTORSTWA](artykuly/postacie/waffenowcy/autorstwa-artykulow.md) - rejestr autorów
 
 ## 🎯 Główne wątki tematyczne
 

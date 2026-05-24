@@ -21,7 +21,7 @@ Zbior postaci zaliczanych do "sekty Wulfhuda" (SW) - grupy skupionej wokol Wulfh
 ## Linki i klipy
 
 - materialy zrodlowe w artykulach o konfliktach wewnetrznych
-- patrz [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

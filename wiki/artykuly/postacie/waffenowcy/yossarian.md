@@ -24,6 +24,6 @@ Występuje w materiałach źródłowych dotyczących akcji z 2025-12-05 oraz w t
 
 ## Powiazania
 
-- [2025-12-05 - chlopa zamrozilo](../figle/2025-12-05-chlopa-zamrozilo.md)
-- [Pseudonimy Szachowego Mentora](../figle/pseudonimy-szachowego-mentora.md)
+- [2025-12-05 - chlopa zamrozilo](../../figle/2025-12-05-chlopa-zamrozilo.md)
+- [Pseudonimy Szachowego Mentora](../../figle/pseudonimy-szachowego-mentora.md)
 - [Rejestr autorstw artykulow](autorstwa-artykulow.md)

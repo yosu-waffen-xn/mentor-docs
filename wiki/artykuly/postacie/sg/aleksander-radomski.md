@@ -16,7 +16,7 @@ Streamer prowadzacy kanaly szachowe, opisywany jako osobowosc kontrowersyjna. Wo
 
 ## Linki i klipy
 
-- portal główny: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- portal główny: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

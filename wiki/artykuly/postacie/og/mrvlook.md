@@ -15,7 +15,7 @@ Starszy uczestnik komunity, ktorego aktywnosc zmniejszyla sie w ostatnich latach
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

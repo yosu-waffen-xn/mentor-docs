@@ -15,7 +15,7 @@ Osoba odgrywajaca role w procesach przejęcia i administracji serwerem. Przywoly
 
 ## Linki i klipy
 
-- patrz artykuly o administracji serwerow: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly o administracji serwerow: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

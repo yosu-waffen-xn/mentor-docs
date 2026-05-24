@@ -1,0 +1,64 @@
+name: Check Wiki Links
+
+on:
+  push:
+    branches: [ master, main ]
+    paths: [ 'wiki/**/*.md', '.github/workflows/check-links.yml' ]
+  pull_request:
+    branches: [ master, main ]
+    paths: [ 'wiki/**/*.md' ]
+
+jobs:
+  check-links:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check markdown links
+        shell: powershell
+        run: |
+          $root = 'wiki'
+          $md = Get-ChildItem -Path $root -Recurse -Filter *.md
+          $broken = @()
+          
+          foreach($f in $md) {
+            $content = Get-Content -Raw -Path $f.FullName
+            $matches = [regex]::Matches($content, '\[[^\]]+\]\(([^)]+)\)')
+            
+            foreach($m in $matches) {
+              $target = $m.Groups[1].Value.Trim()
+              
+              # Skip external links and anchors
+              if($target -match '^(https?:|mailto:|#)') { continue }
+              
+              # Extract path (without anchor)
+              $targetPath = $target.Split('#')[0]
+              if([string]::IsNullOrWhiteSpace($targetPath)) { continue }
+              
+              # Check if file exists
+              $resolved = Join-Path $f.DirectoryName $targetPath
+              if(-not (Test-Path -LiteralPath $resolved)) {
+                $broken += [pscustomobject]@{
+                  File = $f.FullName
+                  Link = $m.Groups[1].Value
+                  Target = $resolved
+                }
+              }
+            }
+          }
+          
+          Write-Output "## Link Check Results"
+          Write-Output "Checked: $($md.Count) files"
+          Write-Output "Broken links found: $($broken.Count)"
+          
+          if($broken.Count -gt 0) {
+            Write-Output ""
+            Write-Output "### ❌ Broken Links:"
+            $broken | Sort-Object File | ForEach-Object {
+              Write-Output "- **$($_.File)**: \`$($_.Link)\` → $($_.Target)"
+            }
+            exit 1
+          } else {
+            Write-Output "### ✅ All links are valid!"
+            exit 0
+          }

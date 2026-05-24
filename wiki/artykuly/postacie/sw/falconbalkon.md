@@ -15,7 +15,7 @@ Postac, ktorej aktywnosc w grupie zmniejszyla sie w ostatnich latach, ale ktorej
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

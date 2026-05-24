@@ -22,5 +22,5 @@ W przekazie akcentowano odwolanie streama i narastanie presji interpersonalnej.
 
 ## Powiazania
 
-- [2025-12 - spory z moderacja i relacje interpersonalne](../zwiazki/2025-12-spory-z-moderacja.md)
+- [2025-12 - spory z moderacja i relacje interpersonalne](../../zwiazki/2025-12-spory-z-moderacja.md)
 - [Rejestr autorstw artykulow](autorstwa-artykulow.md)

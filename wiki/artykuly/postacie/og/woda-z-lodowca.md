@@ -15,7 +15,7 @@ Administrator o dosc niezwyklej nazwie uzytkownika, przywolywany w relacjach dot
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

@@ -15,7 +15,7 @@ Postac znana z zaangażowania w trolling i eksploatacje systemow wielokontowych.
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

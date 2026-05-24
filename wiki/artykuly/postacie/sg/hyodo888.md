@@ -15,7 +15,7 @@ Moderatorka zaangażowana w utrzymanie porzadku w komunity. Przywolywana w konte
 
 ## Linki i klipy
 
-- patrz glowne artykuly o konflikcie: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz glowne artykuly o konflikcie: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

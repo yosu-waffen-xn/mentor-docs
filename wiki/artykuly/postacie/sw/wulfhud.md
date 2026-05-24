@@ -16,7 +16,7 @@ Osoba znana z publikacji memicznych utworow dotyczacych Szachowego Mentora i kon
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

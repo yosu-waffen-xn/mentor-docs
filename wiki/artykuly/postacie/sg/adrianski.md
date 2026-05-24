@@ -15,7 +15,7 @@ Widzista zaangażowany w wsparcie dla kanalu Mentora. Przywolywany w opisach pos
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 

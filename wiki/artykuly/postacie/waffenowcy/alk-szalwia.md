@@ -21,5 +21,5 @@ Segment mial forme ironicznego ostrzezenia i domykal caly numer.
 
 ## Powiazania
 
-- [2026-02 - mentor meczennik czy len](../figle/2026-02-mentor-meczennik-czy-len.md)
+- [2026-02 - mentor meczennik czy len](../../figle/2026-02-mentor-meczennik-czy-len.md)
 - [Rejestr autorstw artykulow](autorstwa-artykulow.md)

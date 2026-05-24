@@ -22,6 +22,6 @@ W transkrypcjach pojawil sie tez glos Pomidora jako jednego z rozmowcow w bloku 
 
 ## Powiazania
 
-- [2026-02 - oda do Koisuru i wywiad srodowiskowy](../zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
-- [2026-02 - mentor meczennik czy len](../figle/2026-02-mentor-meczennik-czy-len.md)
+- [2026-02 - oda do Koisuru i wywiad srodowiskowy](../../zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
+- [2026-02 - mentor meczennik czy len](../../figle/2026-02-mentor-meczennik-czy-len.md)
 - [Rejestr autorstw artykulow](autorstwa-artykulow.md)

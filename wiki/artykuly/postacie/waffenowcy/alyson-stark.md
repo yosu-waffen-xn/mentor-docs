@@ -23,5 +23,5 @@ Alyson Stark odpowiada za ostateczny kształt i jakość publikowanych treści.
 
 ## Powiazania
 
-- [2025-12-05 - chlopa zamrozilo](../figle/2025-12-05-chlopa-zamrozilo.md)
+- [2025-12-05 - chlopa zamrozilo](../../figle/2025-12-05-chlopa-zamrozilo.md)
 - [Rejestr autorstw artykulow](autorstwa-artykulow.md)

@@ -15,7 +15,7 @@ Moderatorka ktorej udzial w komunity zakonczyl sie okreslaniem przez inne osoby 
 
 ## Linki i klipy
 
-- patrz artykuly glowne: [Szachowy mentor](../../../profil/szachowy-mentor.md)
+- patrz artykuly glowne: [Szachowy mentor](../../profil/szachowy-mentor.md)
 
 ## Powiazania
 
