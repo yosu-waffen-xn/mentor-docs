@@ -1,0 +1,38 @@
+# title: Szachowy Mentor Wiki
+theme: jekyll-theme-slate
+markdown: kramdown
+
+# Site configuration for Jekyll
+description: Kompleksowa dokumentacja konfliktu wokół Szachowego Mentora
+url: "https://github.com"
+
+# Navigation
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Wiki"
+    url: "/wiki/"
+  - title: "Artykuły"
+    url: "/wiki/artykuly/"
+  - title: "Postacie"
+    url: "/wiki/artykuly/postacie/"
+
+# Build settings
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - wiki
+
+exclude:
+  - local-notes/
+  - .gitignore
+  - .git/
+  - Gemfile
+  - Gemfile.lock
