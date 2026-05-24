@@ -2,19 +2,20 @@
 
 ## Co sie stalo
 
-Alyson Stark pojawia sie w materialach jako redaktor naczelny sygnujacy czesc tekstow publikowanych w obiegu spolecznosciowym.
-W relacjach Alyson Stark odpowiada za finalny ton i zamkniecie narracyjne czesci materialow.
+Alyson Stark - autorka tekstów i wpisów redakcyjnych publikowanych w obiegu społeczności Waffenxn.
+Pełni rolę redaktorki odpowiedzialnej za finalny ton, zamknięcie narracyjne i strukturę publikowanych materiałów.
 
 ## Kto bral udzial
 
-- Alyson Stark
-- redakcja spolecznosciowa
-- odbiorcy publikacji
+- Alyson Stark (autorka, redaktor)
+- pozostali członkowie zespołu redakcyjnego Waffenxn
+- odbiorcy publikacji i społeczność
 
 ## Przebieg
 
-W tekstach pojawiaja sie podpisy "Red. Nacz. Alyson Stark" oraz "Red. Alyson Stark".
-Podpisy te wystepuja przy fragmentach dotyczacych figlow i zbiorczych podsumowan wydarzen.
+W tekstach i materiałach publikowanych w obiegu społeczności pojawiają się podpisy "Red. Nacz. Alyson Stark" oraz "Red. Alyson Stark".
+Podpisy te występują przy fragmentach dotyczących figów, zbiorczych podsumowań wydarzeń oraz materiałach redakcyjnych.
+Alyson Stark odpowiada za ostateczny kształt i jakość publikowanych treści.
 
 ## Linki i klipy
 

@@ -1,7 +1,10 @@
 # Wiki - indeks
 
+**👉 [CZYTAJ NAJPIERW: README - Przewodnik po wiki](README.md)** - Kompletny przegląd struktury i najważniejsze artykuły
+
 ## Struktura
 
+- [README - Przewodnik po wiki](README.md)
 - [Artykuly](artykuly/INDEX.md)
 - [Zrodla](zrodla/README.md)
 - [Szablony](szablony/artykul.md)

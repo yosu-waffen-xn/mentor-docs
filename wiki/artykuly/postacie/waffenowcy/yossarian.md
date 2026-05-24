@@ -2,19 +2,20 @@
 
 ## Co sie stalo
 
-Yossarian wystepuje w materialach jako organizator i koordynator figlow wymierzonych w transmisje mentora.
-W relacjach jest opisywany jako osoba, ktora laczy planowanie operacyjne z nadzorem nad wykonaniem akcji.
+Yossarian - wspólzałożyciel grupy Waffenxn, centralna postać "figlarska" zaangażowana w liczne akcje wymierzone w Szachowego Mentora.
+W relacjach jest opisywany jako organizator i koordynator operacyjny figów o dużym zasięgu społecznym.
 
 ## Kto bral udzial
 
-- Yossarian
-- zespol specjalistow od figlow
-- uczestnicy akcji i osoby wspierajace
+- Yossarian (wspólzałożyciel Waffenxn)
+- pozostali członkowie grupy Waffenxn
+- uczestnicy i obserwatorzy akcji
 
 ## Przebieg
 
-W opisie akcji z 2025-12-05 Yossarian kierowal przygotowaniami, a zespol realizowal plan blokowania lobby i presji komunikacyjnej.
-Yossarian pojawia sie tez jako postac centralna w tresciach AI odtwarzanych podczas transmisji mentora.
+Yossarian pojawia się w opisach przygotowań i realizacji różnych akcji figlarskich wymierzonych w Szachowego Mentora.
+Jako współzałożyciel grupy Waffenxn pełni rolę centralną w planowaniu, organizacji i koordynacji działań na skalę społeczności.
+Występuje w materiałach źródłowych dotyczących akcji z 2025-12-05 oraz w tresciach AI odtwarzanych podczas transmisji mentora.
 
 ## Linki i klipy
 

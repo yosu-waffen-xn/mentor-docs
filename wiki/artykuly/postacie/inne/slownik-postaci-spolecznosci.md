@@ -14,74 +14,85 @@ To haslo ma charakter orientacyjny i nawigacyjny.
 
 ## Przebieg
 
-### SG (otoczenie streamowe)
+### SG (Srebrna Gwardia)
 
-- Aleksander Radomski / SzachowyMentor1996: streamer szachowy (kick, dawniej twitch), autor ksiazki i glowna postac konfliktu.
-- Hyodo888: byly moderator mentora, opisywany jako osoba pomagajaca w identyfikowaniu trolli.
-- Grzacia: byla moderatorka mentora; w relacjach wskazywano nagle znikniecie z community.
-- Adrianski: opisywany jako wierny widz i zolnierz mentora mimo konfliktow.
+Patrz: [Srebrna Gwardia (SG)](../sg/INDEX.md)
 
-### S (streamerzy i szachy)
+- Aleksander Radomski / SzachowyMentor1996
+- Hyodo888
+- Grzacia
+- Adrianski
 
-- Bartosz "Xntentacion" Rudecki (XN): streamer, wspolwlasciciel Ostredebiuty.pl, kluczowy oponent mentora.
-- Jaskol95: szachista z tytulem CM i streamer twitchowy.
-- Dawid Czerw: szachista z tytulem IM, streamer/youtuber; przywolywany w sporach o partie z mentorem.
-- Igor Janik: arcymistrz, komentator fragmentow gry mentora w materialach krytycznych.
+### OG (Starokurwy)
+
+Patrz: [Starokurwy (OG)](../og/INDEX.md)
+
+- OperatorKosiarki
+- Turboglowica
+- Woda z lodowca
+- Mrvlook
+
+### SW (Sekta Wulfhuda)
+
+Patrz: [Sekta Wulfhuda (SW)](../sw/INDEX.md)
+
+- FalconBalkon
+- Wulfhud
+- Laylo
 
 ### WFFN (Waffen)
 
-- Yossarian: wspolzalozyciel Waffenxn, centralna postac "figlarska" i autor wielu akcji.
-- Legwus: autor filmu "Portret mizogina - Aleksander Radomski", wspolzalozyciel.
-- Tori: postac czesto przywolywana w emocjonalnych wypowiedziach mentora.
-- Fiko (Ignitas, Alastor): wspolzalozyciel, laczony z produkcjami i akcjami figlarskimi.
-- Puszmen12 (Rsjnin, ukrnc): wspolzalozyciel, uczestnik debat z mentorem.
-- Un4given: postac ze srodowiska Waffen, przywolywana w opisach spolecznosciowych.
-- Bosman (Loki): wspolzalozyciel, opisywany jako aktywny w dawnych akcjach.
-- Buba: postac regularnie przywolywana w wewnetrznych relacjach grupy.
-- Alyson Stark: autorka tekstow i wpisow redakcyjnych.
-- Hikki: postac przewijajaca sie w relacjach o dawnych akcjach.
-- Beudzik: lektor fanfikow i osoba zwiazana z rozglosnia Waffen.
-- 3Rrr0r: autor glosnych rozmow i materialow z mentorem.
-- Flaminga: postac od pomniejszych akcji i trollingu.
-- Vitas (Filippo Brunelleschi, Wlodar Chorzysta, Niwelator): postac opisywana jako specjalista od prowokowania rozmow towarzyskich.
+Patrz: [Waffenowcy](../waffenowcy/INDEX.md)
+
+- Yossarian
+- Legwus
+- Tori
+- Fiko (Ignitas, Alastor)
+- Puszmen12 (Rsjnin, ukrnc)
+- Un4given
+- Bosman (Loki)
+- Buba
+- Alyson Stark
+- Hikki
+- Beudzik
+- 3Rrr0r
+- Flaminga
+- Vitas (Filippo Brunelleschi, Wlodar Chorzysta, Niwelator)
+
+### S (Streamerzy i szachy)
+
+- Bartosz "Xntentacion" Rudecki (XN): streamer, wspólwłaściciel Ostredebiuty.pl, kluczowy oponent Mentora
+- Jaskol95: szachista z tytułem CM i streamer twitchowy
+- Dawid Czerw: szachista z tytułem IM, streamer/youtuber
+- Igor Janik: arcymistrz, komentator fragmentów gry Mentora
 
 ### KGB
 
-- Wrzechu: emerytowana postac, laczona z akcja "Kasiunia".
-- Dumb: dawna ekipa amongusowa.
-- Mrozu: dawny kolega Aleksandra.
-- V7: postac z ekipy amongusowej.
-- maxas12: laczony z moderacja i dzialaniami po stronie XN.
-- Galanix: dlugoletni subskrybent mentora, opisywany jako postac "przechodzaca" miedzy grupami.
-- Y.X.O.: byly moderator, wspominany przy masowych banach.
-- Frajito (Uliczny grajek): postac laczona z akcjami wsparcia grupowego.
-- Stalin (Alalastor): postac ze srodowiska KGB.
+- Wrzechu: emerytowana postać, łączona z akcją "Kasiunia"
+- Dumb: dawna ekipa amongusowa
+- Mrozu: dawny kolega Aleksandra
+- V7: postać z ekipy amongusowej
+- maxas12: łączony z moderacją i działaniami po stronie XN
+- Galanix: długoletni subskrybent Mentora
+- Y.X.O.: były moderator, wspominany przy masowych banach
+- Frajito (Uliczny grajek): postać łączona z akcjami wsparcia grupowego
+- Stalin (Alalastor): postać ze środowiska KGB
 
-### OG
+### AN / D / inne skrzydła
 
-- OperatorKosiarki: postac kluczowa przy przejeciu serwera mentora.
-- Turboglowica: opisywany jako zaawansowane multikonto i troll.
-- Woda z lodowca: administrator przywolywany w konflikcie serwerowym.
-- Mrvlook: stary widz mentora, postac emerytowana.
-
-### AN / SW / D / inne skrzydla
-
-- W_hao (AN): postac o krotkiej karierze trollerskiej.
-- Atomowy coggers (AN): tworca tresci o zachowaniach mentora.
-- Olsak (AN): widzka, ktora opuscila community po sporach.
-- Just Ola (AN): postac przywolywana w kontrowersjach obyczajowych.
-- FalconBalkon (SW): emerytowana postac figlarska.
-- Wulfhud (SW): autor rozpoznawalnych memicznych materialow.
-- Laylo (SW): postac regularnie przywolywana w sporach wewnetrznych.
-- Denvii (D): tworca kronik mentora i streamer.
-- Piwniczak (D): postac z "Denciakowni", opisywana kontrowersyjnie.
-- Capybara (D): postac figlujaca, aktywna w relacjach technicznych.
-- Noname (xnJ): pomniejszy figlarz.
-- Neko (xnHK): byly moderator mentora, laczony z akcja Banbardiren.
-- Pan Yakuza (xnY): tworca materialow na kanale WAFFENGERS.
-- Krasu (xn): moderator XN, opisywany jako lacznik dyplomatyczny.
-- Merex (RG): programista, przywolywany jako wierny widz mentora.
-- Miki (Hitman): postac memiczna, regularnie przywolywana jako motyw "parkingowy".
+- W_hao (AN): postać o krótkiej karierze trollerskiej
+- Atomowy coggers (AN): twórca treści o zachowaniach Mentora
+- Olsak (AN): widzka, która opuściła community po sporach
+- Just Ola (AN): postać przywołana w kontrowersjach obyczajowych
+- Denvii (D): twórca kronik Mentora i streamer
+- Piwniczak (D): postać z "Denciakowni"
+- Capybara (D): postać figlująca, aktywna w relacjach technicznych
+- Noname (xnJ): pomniejszy figlarz
+- Neko (xnHK): były moderator Mentora
+- Pan Yakuza (xnY): twórca materiałów na kanale WAFFENGERS
+- Krasu (xn): moderator XN
+- Merex (RG): programista, przywołany jako wierny widz Mentora
+- Miki (Hitman): postać memiczna, regularnie przywołana
 
 ## Linki i klipy
 
