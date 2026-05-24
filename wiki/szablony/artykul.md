@@ -2,7 +2,7 @@
 
 ## Co sie stalo
 
-Krotki opis wydarzenia lub tematu w 2-4 zdaniach.
+Szczegolowy opis wydarzenia lub tematu z datami, kontekstem i najwazniejszymi punktami sporu.
 
 ## Kto bral udzial
 
@@ -16,7 +16,7 @@ Co uruchomilo wydarzenie.
 
 ## Przebieg
 
-Opis krok po kroku, najlepiej z datami i konkretami.
+Opis krok po kroku z datami, konkretami, cytatami i reakcjami uczestnikow/spolecznosci.
 
 ## Skutek (opcjonalnie)
 

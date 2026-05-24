@@ -28,7 +28,9 @@ flowchart TD
   ZWI --> SPOR[2025-12-spory-z-moderacja.md]
   ZWI --> ODA26[2026-02-oda-do-koisuru-i-wywiad.md]
 
-  AIDX --> WAF[waffenowcy]
+  AIDX --> POS[postacie]
+  POS --> WAF[postacie/waffenowcy]
+  POS --> INN[postacie/inne]
   WAF --> YOS[yossarian.md]
   WAF --> ALS[alyson-stark.md]
   WAF --> JAD[jad.md]
@@ -38,6 +40,7 @@ flowchart TD
   WAF --> ASZ[alk-szalwia.md]
   WAF --> POM[pomidor.md]
   WAF --> AUT[autorstwa-artykulow.md]
+  INN --> SLO[slownik-postaci-spolecznosci.md]
 
   PROFIL --> WYD
   PROFIL --> ZAMR
@@ -50,7 +53,7 @@ flowchart TD
   PROFIL --> KAC26
   PROFIL --> MECZ26
   PROFIL --> ODA26
-  PROFIL --> WAF
+  PROFIL --> POS
 
   ZAMR --> WYD
   WYD --> CZYT

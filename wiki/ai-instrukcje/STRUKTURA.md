@@ -7,7 +7,8 @@
 - artykuly/odzywianie
 - artykuly/inwestycje
 - artykuly/zwiazki
-- artykuly/waffenowcy
+- artykuly/postacie/waffenowcy
+- artykuly/postacie/inne
 
 ## Zasady przypisania
 
@@ -15,7 +16,8 @@
 - Odzywianie: napoje, jedzenie, zakupy i nawyki konsumpcyjne.
 - Inwestycje: finanse, dochod, biznes online, inwestowanie.
 - Zwiazki: relacje interpersonalne i konflikty obyczajowe.
-- Waffenowcy: profile osob ze srodowiska Waffen i rejestr autorstw.
+- Postacie/Waffenowcy: profile osob ze srodowiska Waffen i rejestr autorstw.
+- Postacie/Inne: pozostale postacie i role ze slownika spolecznosci.
 - Profil: haslo glowne postaci i os czasu przekrojowa.
 
 ## Nawigacja

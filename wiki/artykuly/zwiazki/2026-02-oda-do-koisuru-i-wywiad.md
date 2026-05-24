@@ -14,9 +14,13 @@ Material koncentruje sie na relacji mentora z partnerka, kwestii jawnosci zwiazk
 
 ## Przebieg
 
-Najpierw opublikowano list o charakterze ostrzegawczym, w ktorym redakcja podwaza spojnosc narracji mentora o zyciu uczuciowym.
-Nastepnie opublikowano fragmenty wywiadu z partnerka mentora.
-W cytowanych wypowiedziach pojawily sie watki o zmiennosci nastroju mentora, trudnosci w ocenie jego realnych przekonan oraz obawie przed upublicznianiem prywatnych informacji.
+Najpierw opublikowano list otwarty o charakterze ostrzegawczym.
+Nastepnie pokazano dlugi blok transkrypcji z rozmowy z partnerka mentora, gdzie padly pytania o:
+- stabilnosc przekonan mentora
+- granice prywatnosci
+- rozjazd miedzy deklaracjami a praktyka
+
+Ze wzgledu na objetosc pakiet zostal rozbity na podstrony szczegolowe.
 
 ## Linki i klipy
 
@@ -25,5 +29,7 @@ W cytowanych wypowiedziach pojawily sie watki o zmiennosci nastroju mentora, tru
 ## Powiazania
 
 - [2025-12 - spory z moderacja i relacje interpersonalne](2025-12-spory-z-moderacja.md)
+- [2026-02 - list otwarty do Koisuru](2026-02-list-otwarty-do-koisuru.md)
+- [2026-02 - transkrypcje wywiadu z Magdalena Natalia](2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
 - [Szachowy mentor](../profil/szachowy-mentor.md)
-- [Rejestr autorstw artykulow](../waffenowcy/autorstwa-artykulow.md)
+- [Rejestr autorstw artykulow](../postacie/waffenowcy/autorstwa-artykulow.md)

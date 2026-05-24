@@ -30,4 +30,4 @@ W praktyce temat zasilil narracje o rozjezdzaniu sie planow publicznych z codzie
 
 - [Restreamy i archiwum transmisji](restreamy-i-archiwum.md)
 - [Cele finansowe i inwestycyjne mentora](../inwestycje/cele-finansowe-i-inwestycyjne-mentora.md)
-- [Rejestr autorstw artykulow](../waffenowcy/autorstwa-artykulow.md)
+- [Rejestr autorstw artykulow](../postacie/waffenowcy/autorstwa-artykulow.md)

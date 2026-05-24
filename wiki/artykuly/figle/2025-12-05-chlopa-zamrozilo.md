@@ -2,37 +2,76 @@
 
 ## Co sie stalo
 
-5 grudnia 2025 zespol powiazany ze spolecznoscia Waffen przeprowadzil zaplanowany figiel wymierzony w stream mentora.
-Operacja polegala na utrudnianiu mentorowi gry w Among Us, a rownolegle na podaniu mu materialu muzycznego AI, ktory mial wywolac reakcje na zywo.
+5 grudnia 2025 zespol figlowy kierowany przez Yossariana przeprowadzil zaplanowana akcje destabilizacji streama Szachowego Mentora.
+Plan mial dwa glowne cele: wielokrotne blokowanie dostepu do lobby w Among Us oraz dostarczenie mentorowi piosenki AI, ktora miala zostac odtworzona na zywo.
+Rownolegle prowadzono tez warstwe "dowodowa" przez konto "Ziutek", z ktorego wedlug relacji mialy wynikac informacje o niespojnosciach w narracji mentora dotyczacej relacji z Napoleonką.
 
 ## Kto bral udzial
 
 - Szachowy mentor
 - zespol przygotowujacy figiel pod przywodztwem Yossariana
-- konto "Ziutek" prowadzone pod przykrywka rozmow prywatnych
+- konto "Ziutek" zarzadzane przez Yossariana i prowadzone pod przykrywka rozmow prywatnych
 - widzowie i uczestnicy lobby Among Us
 
 ## Trigger
-Triggerem byla chec publicznego skonfrontowania mentora z zarzutami o niespojnosc wypowiedzi dotyczacych relacji osobistych oraz chec destabilizacji jego wieczornej transmisji.
+Triggerem byla chec wywolania publicznej reakcji mentora i podbicia presji wokol jego wieczornego streama.
+W tle pojawial sie tez motyw ujawniania niespojnosci zwiazanych z relacja mentora i Napoleonki (w relacji redakcyjnej wskazywano date 13.11.2025 jako moment zerwania po tygodniu zwiazku).
 
 ## Przebieg
 
-Przygotowania trwaly przez kilka dni i obejmowaly testowanie sposobow blokowania lobby w Among Us.
-Akcja wystartowala okolo 19:45, czyli mniej wiecej pol godziny przed planowana transmisja.
-Mentor uruchomil stream z opoznieniem, a glowna faza operacji ruszyla okolo 20:26.
+Przygotowania do figla trwaly tydzien i byly prowadzone przez szerszy zespol "od figlow".
+Na etapie przygotowan zaczeto podnosic poziom irytacji mentora przez psucie lobby w Among Us.
 
-W kolejnych etapach mentor mial utrudniany dostep do lobby.
-Po kilku blokadach dostawal krotkie "okna nadziei" na jedna lub dwie gry, po czym utrudnienia wracaly.
-Podczas streama probowal zmieniac nick, przekazywac tworzenie lobby innym osobom i przelaczac regiony gry.
+### Oś czasu
 
-W trakcie tej samej transmisji konto "Ziutek" przeslalo mentorowi piosenke AI.
-Mentor odtworzyl material na zywo i po chwili zakonczyl stream komunikatem, ze odechciewa mu sie dalej nadawac.
-Wedlug relacji cala operacja zakonczyla sie okolo 21:42, a stream trwal 1:18:09.
+- ok. 19:45: start fazy operacyjnej, jeszcze przed ruszeniem transmisji
+- ok. 20:00+: mentor opoznia start streama o okolo 30 minut i pisze na Discordzie: "Ide umyc kosz na smieci. <:madge: >"
+- ok. 20:26: start glownej fazy blokowania gry
+- 21:42: final operacji i koniec streama
+
+### Etap 1 - blokady lobby i kontrolowane "okna nadziei"
+
+Od 20:26 zaczeto seryjnie blokowac mentorowi wejscia do lobby.
+Po kilku blokadach dopuszczono go do jednej rozgrywki, zeby nie zakonczyl transmisji zbyt szybko.
+Nastepnie blokowanie wznowiono.
+
+Mentor probowal kolejnych metod obejscia:
+- zmiana nicku na "menti"
+- proszenie innych uczestnikow o zakladanie lobby
+- zmiana regionu gry
+
+Po zmianie regionu zespol ponownie dal mu krotki margines nadziei i pozwolil zagrac jeszcze dwie gry.
+
+### Etap 2 - piosenka AI od "Ziutka"
+
+W trakcie chaosu w lobby konto "Ziutek" przeslalo mentorowi piosenke AI.
+Gdy mentor szedl do lazienki, zawrocil i zapowiedzial odtworzenie nagrania z priv.
+Piosenka wychwalala Yossariana, co - przy trwajacej blokadzie lobby - wywolalo silna reakcje emocjonalna mentora.
+
+Po odsluchaniu padl komentarz: "Aha, japierdole".
+Mentor nie wrocil juz do planu wyjscia do toalety i dalej probowal ogarnac lobby.
+
+### Etap 3 - domkniecie transmisji
+
+W koncowce streama dodatkowo eskalowal go fakt, ze do lobby wchodzily i wychodzily kolejne osoby, ktorych nie mogl skutecznie zbanowac.
+Po okolo minucie i 20 sekundach dalszej frustracji zakonczyl nadawanie slowami:
+"Wiecie co, naprawde kurwa odechciewa mi sie streamowac. Pierdole to wszystko".
+
+W momencie odtwarzania piosenki pojawil sie tez film na kanale WAFFEN X YAKUZA:
+"ALEKSANDER RADOMSKI SIE PRZYZNAL [SZACUN]", ale material nie zostal obejrzany na transmisji.
+
+Caly stream trwal 1:18:09, a figiel domknieto o 21:42.
 
 ## Skutek
-Figiel stal sie jednym z glosniejszych epizodow grudnia 2025 i mocno podbil napiecie miedzy mentorem a spolecznoscia Waffen.
-Po transmisji pojawila sie cisza na serwerze mentora, a nastepnie kolejne wpisy eskalujace konflikt.
-Wydarzenie weszlo do obiegu jako punkt zwrotny poprzedzajacy dalsze grudniowe starcia wokol moderacji i streamingu.
+Figiel stal sie jednym z najbardziej rozpoznawalnych epizodow grudnia 2025 i mocno podbil napiecie miedzy mentorem a srodowiskiem Waffen.
+Po streamie na serwerze "Szachowe krolestwo" przez dluzszy czas nie bylo informacji od mentora, a pozniej pojawil sie komunikat: "Nic nie jest w porzadku. <:pepew >".
+Po kolejnym okresie ciszy wrzucano nowe materialy i kontynuowano ostry konflikt slowny z Yossarianem i Waffenem.
+
+### Ciekawostka z lobby
+
+W relacjach z tamtego streama przewijaly sie m.in. takie nicki jak:
+"DOSC GIER", "JanApostol", "Jezus", "Ministrant", "UszatyGnoj", "Uszatycwel", "WYSTARCZY", "KacperW", "Wrozbita", "SZATAN", "AGMToUCWEL".
+Wskazywano tez jeden nick o charakterze rasistowskim, ktorego tu nie powielamy doslownie.
 
 ## Linki i klipy
 
