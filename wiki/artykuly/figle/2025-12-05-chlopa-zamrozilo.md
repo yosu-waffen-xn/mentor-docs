@@ -75,7 +75,16 @@ Wskazywano tez jeden nick o charakterze rasistowskim, ktorego tu nie powielamy d
 
 ## Linki i klipy
 
-- https://streamable.com/qpjt10
+Moment zamrożenia mentora — twarz skupienia i cierpliwości tuż przed eksplozją frustracji:
+
+![Mentor zamrożony — skupiony, wpatruje się w ekran w ciszy](<../../assets/screenshots/2025-12/mentor zamrozony.png>)
+
+Nagranie z climaxu figla (piosenka AI + blokady lobby):
+
+<video src="../../assets/screenshots/2025-12/qpjt10.mp4" controls width="100%"></video>
+
+*(Alternatywnie: [streamable.com/qpjt10](https://streamable.com/qpjt10))*
+
 - https://www.youtube.com/watch?v=0tPMEnrSYjc
 
 ## Powiazania
