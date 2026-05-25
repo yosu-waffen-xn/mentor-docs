@@ -43,7 +43,7 @@ Mentor opisał cały przebieg na Discordzie:
 
 Kontekst wybuchu (atomówki) i wypowiedź o niemożności cieszenia się streamami:
 
-![Atomówka — mentor tłumaczy awarię i porzucenie Among Us, HaxBalla i Lichessa](<../../assets/screenshots/2025-12/atomówka.png>)
+![Atomówka — mentor tłumaczy awarię i porzucenie Among Us, HaxBalla i Lichessa](<../../assets/screenshots/2025-12/atomowka.png>)
 
 ### Etap 5: Konsekwencje
 Po zakończeniu streama i wzięciu prysznica mentor przystąpił do **"czystek etnicznych"** na Discordzie — opisanych w powiązanym artykule.
@@ -60,7 +60,7 @@ Po zakończeniu streama i wzięciu prysznica mentor przystąpił do **"czystek e
 ## Powiązania
 
 - [🔗 Hub artykułu — Szachy, Banery, Oranżada](2025-12-08-13-szachy-banery-oranzzada.md)
-- [🔗 Przedwczesne czystki rasowe — banowanie 300+ osób](2025-12-13-czystki-rasowe-300-banitych-z-discorda.md) (konsekwencja)
+- [🔗 Przedwczesne czystki rasowe — banowanie 300+ osób](../zwiazki/2025-12-13-czystki-rasowe-300-banitych-z-discorda.md) (konsekwencja)
 - [🔗 Postacie — Aleksander Radomski (Mentor)](../postacie/sg/aleksander-radomski.md)
 - [🔗 Postacie — Waffenowcy (grupa)](../postacie/waffenowcy/index.md)
 

@@ -59,7 +59,7 @@ Artykuł zawiera również **porównanie lodówki mentora z wcześniej i obecnie
 
 ## Powiązania
 
-- [🔗 Hub artykułu — Szachy, Banery, Oranżada](2025-12-08-13-szachy-banery-oranzzada.md)
+- [🔗 Hub artykułu — Szachy, Banery, Oranżada](../figle/2025-12-08-13-szachy-banery-oranzzada.md)
 - [🔗 Postacie — Aleksander (Mentor, Uszatek, Monarch)](../postacie/sg/aleksander-radomski.md)
 - [🔗 Kategoria Odżywianie](../odzywianie/) (powiązane artykuły o wspólnym żywieniu/produktach)
 

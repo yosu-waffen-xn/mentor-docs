@@ -10,12 +10,12 @@
 - [Maszynista z Waffen atakuje — podejrzenie użycia maszyny na Lichessie](2025-12-08-maszynista-z-waffen-atakuje-na-lichessie.md)
 
 ### **Discord i Społeczność**  
-- [Przedwczesne czystki rasowe — banowanie 200+ osób w wyniku atomu](2025-12-13-czystki-rasowe-300-banitych-z-discorda.md)
-- [Merex zbanowany — wysłanie wiadomości w języku chińskim](2025-12-08-merex-zbanowany-za-oblige-rodzicow.md)
-- [Poradnik — jak uniknąć banu na Discordzie](2025-12-08-poradnik-jak-uniknac-banu-na-discordzie.md)
+- [Przedwczesne czystki rasowe — banowanie 200+ osób w wyniku atomu](../zwiazki/2025-12-13-czystki-rasowe-300-banitych-z-discorda.md)
+- [Merex zbanowany — wysłanie wiadomości w języku chińskim](../zwiazki/2025-12-08-merex-zbanowany-za-oblige-rodzicow.md)
+- [Poradnik — jak uniknąć banu na Discordzie](../zwiazki/2025-12-08-poradnik-jak-uniknac-banu-na-discordzie.md)
 
 ### **Żywienie**
-- [Promocja oranżady Helleny — analiza cen i oszczędności](2025-12-08-promocja-oranzzada-hellena-analiza.md)
+- [Promocja oranżady Helleny — analiza cen i oszczędności](../odzywianie/2025-12-08-promocja-oranzzada-hellena-analiza.md)
 
 ---
 

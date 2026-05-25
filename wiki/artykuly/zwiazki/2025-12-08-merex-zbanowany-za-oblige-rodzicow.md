@@ -56,7 +56,7 @@ Mentor komentując incydent wyraził się jednoznacznie:
 
 ## Powiązania
 
-- [🔗 Hub artykułu — Szachy, Banery, Oranżada](2025-12-08-13-szachy-banery-oranzzada.md)
+- [🔗 Hub artykułu — Szachy, Banery, Oranżada](../figle/2025-12-08-13-szachy-banery-oranzzada.md)
 - [🔗 Przedwczesne czystki rasowe — masowe banowanie 300+ osób](2025-12-13-czystki-rasowe-300-banitych-z-discorda.md) (powiązany incydent)
 - [🔗 Poradnik — jak uniknąć banu na Discordzie](2025-12-08-poradnik-jak-uniknac-banu-na-discordzie.md) (praktyczne umnikanie takich sytuacji)
 - [🔗 Postacie — Aleksander (Mentor)](../postacie/sg/aleksander-radomski.md)

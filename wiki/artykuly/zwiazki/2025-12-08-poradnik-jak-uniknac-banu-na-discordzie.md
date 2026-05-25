@@ -141,7 +141,7 @@ Poradnik tych 13 zasad **nieśmiesznie** odzwierciedla **kulturowe i moderacyjne
 
 ## Powiązania
 
-- [🔗 Hub artykułu — Szachy, Banery, Oranżada](2025-12-08-13-szachy-banery-oranzzada.md)
+- [🔗 Hub artykułu — Szachy, Banery, Oranżada](../figle/2025-12-08-13-szachy-banery-oranzzada.md)
 - [🔗 Przedwczesne czystki rasowe — masowe banowanie](2025-12-13-czystki-rasowe-300-banitych-z-discorda.md)
 - [🔗 Merex zbanowany — praktyczne przypadek użycia](2025-12-08-merex-zbanowany-za-oblige-rodzicow.md)
 - [🔗 Donosy na widzów Xn — procedury weryfikacyjne](2025-12-08-donosy-na-widzow-xn.md) *(artykuł towarzyszący)*

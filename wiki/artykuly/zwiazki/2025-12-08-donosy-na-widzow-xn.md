@@ -98,7 +98,7 @@ Użytkownik Xn (szpieg) → Wiadomość do Mentora:
 
 ## Powiązania
 
-- [🔗 Hub artykułu — Szachy, Banery, Oranżada](2025-12-08-13-szachy-banery-oranzzada.md)
+- [🔗 Hub artykułu — Szachy, Banery, Oranżada](../figle/2025-12-08-13-szachy-banery-oranzzada.md)
 - [🔗 Poradnik — jak uniknąć banu na Discordzie](2025-12-08-poradnik-jak-uniknac-banu-na-discordzie.md) (praktyczne wynikanie)
 - [🔗 Przedwczesne czystki rasowe — masowe banowanie 300+ osób](2025-12-13-czystki-rasowe-300-banitych-z-discorda.md) (kontekst)
 - [🔗 Merex zbanowany](2025-12-08-merex-zbanowany-za-oblige-rodzicow.md) (przykład Case Study)

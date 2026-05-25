@@ -56,8 +56,8 @@ Po czystkach Discord mentora staje się **homogeniczny**:
 
 ## Powiązania
 
-- [🔗 Hub artykułu — Szachy, Banery, Oranżada](2025-12-08-13-szachy-banery-oranzzada.md)
-- [🔗 Maszynista z Waffen — incident szachowy (trigger)](2025-12-08-maszynista-z-waffen-atakuje-na-lichessie.md)
+- [🔗 Hub artykułu — Szachy, Banery, Oranżada](../figle/2025-12-08-13-szachy-banery-oranzzada.md)
+- [🔗 Maszynista z Waffen — incident szachowy (trigger)](../figle/2025-12-08-maszynista-z-waffen-atakuje-na-lichessie.md)
 - [🔗 Poradnik — jak uniknąć banu na Discordzie](2025-12-08-poradnik-jak-uniknac-banu-na-discordzie.md) (praktyczne umnikanie czystek)
 - [🔗 Merex zbanowany — inny incydent banu](2025-12-08-merex-zbanowany-za-oblige-rodzicow.md)
 - [🔗 Postacie — Aleksander Radomski](../postacie/sg/aleksander-radomski.md)
