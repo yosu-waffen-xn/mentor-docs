@@ -1,14 +1,52 @@
 # Artykuly
 
+## Oś czasu
+
+- [2026-02 - kaciki specjalne, cosplay, dobranocka, walentynki, Wiedzmin 3](figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
+- [2026-02 - watki zwiazkowe: Koisuru i wywiad](zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
+- [2025-12-27 - czytanie nagrody kanalowej](figle/2025-12-27-kacik-czytelniczy.md)
+- [2025-12 - wyznania arcymistrza](figle/2025-12-wyznania-arcymistrza.md)
+- [2025-12-08..13 - hub: szachy, banery, oranzzada](figle/2025-12-08-13-szachy-banery-oranzzada.md)
+- [2025-12-13 - przedwczesne czystki rasowe (300+ banitych)](zwiazki/2025-12-13-czystki-rasowe-300-banitych-z-discorda.md)
+- [2025-12-08 - maszynista z Waffen atakuje na Lichessie](figle/2025-12-08-maszynista-z-waffen-atakuje-na-lichessie.md)
+- [2025-12-08 - promocja oranzzady Hellena - analiza](odzywianie/2025-12-08-promocja-oranzzada-hellena-analiza.md)
+- [2025-12-06 - czolgi na ulicy i kolejne figle](figle/2025-12-06-czolgi-na-ulicy-i-kolejne-figle.md)
+- [2025-12-05 - chlopa zamrozilo](figle/2025-12-05-chlopa-zamrozilo.md)
+- [2025-01-11 - oszustwo i rage quit podczas gry w Among Us](figle/2025-01-11-oszustwo-i-rage-quit-among-us.md)
+- [2024-11-06 - pozostale watki z nagrania XN](figle/2024-11-06-pozostale-watki-z-nagrania-xn.md)
+- [2024-01-14 - 12 LAT DRAMY - SAD OSTATECZNY (hub)](figle/2024-01-14-sad-ostateczny-12-lat-dramy.md)
+
 ## Profil
 
 - [2025-12 - anegdota o trzech srebrnych monetkach](profil/2025-12-anegdota-o-trzech-srebrnych-monetkach.md)
-- [2024-01 - fikcyjni wspolpracownicy i sprawa szachy64cba.pl](profil/2024-01-fikcyjni-wspolpracownicy-i-szachy64cba.md)
 - [2024-11 - wizerunek mentora i model widowni](profil/2024-11-wizerunek-mentora-i-model-widowni.md)
+- [2024-01 - fikcyjni wspolpracownicy i sprawa szachy64cba.pl](profil/2024-01-fikcyjni-wspolpracownicy-i-szachy64cba.md)
 - [Szachowy mentor](profil/szachowy-mentor.md)
 
 ## Figle
 
+- [2026-02 - kaciki specjalne: cosplay, dobranocka, walentynki i Wiedzmin 3](figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
+- [2026-02 - cosplay i crossdressing](figle/2026-02-cosplay-i-crossdressing.md)
+- [2026-02 - dobranocka: bajka o uszatym wampirze](figle/2026-02-bajka-uszaty-wampir.md)
+- [2026-02 - walentynkowe wyznania mentora podczas Heavy Rain](figle/2026-02-walentynkowe-wyznania-heavy-rain.md)
+- [2026-02 - Wiedzmin 3: coaching, komentarz redakcyjny i wywiad](figle/2026-02-wiedzmin-3-coaching-i-ocena-redakcji.md)
+- [2026-02 - mentor meczennik czy len](figle/2026-02-mentor-meczennik-czy-len.md)
+- [2025-12-27 - czytanie nagrody kanalowej](figle/2025-12-27-kacik-czytelniczy.md)
+- [2025-12-08-13 - szachy, banery, oranzzada (hub)](figle/2025-12-08-13-szachy-banery-oranzzada.md)
+- [2025-12-08 - maszynista z Waffen atakuje na Lichessie](figle/2025-12-08-maszynista-z-waffen-atakuje-na-lichessie.md)
+- [2025-12-XX - Lady Hetman - plotka o drag queen](figle/2025-12-XX-lady-hetman-plotka-o-drag-queen.md)
+- [2025-12-06 - "czolgi na ulicy" i kolejne figle](figle/2025-12-06-czolgi-na-ulicy-i-kolejne-figle.md)
+- [2025-12-06 - song requesty trollerskie i dwie piosenki](figle/2025-12-06-song-requesty-trollerskie-i-dwie-piosenki.md)
+- [2025-12-06 - ban mentora z wlasnego lobby Haxball](figle/2025-12-06-ban-mentora-z-wlasnego-lobby-haxball.md)
+- [2025-12-06 - koniec Among Us na streamach mentora](figle/2025-12-06-koniec-among-us-na-streamach-mentora.md)
+- [2025-12-05 - chlopa zamrozilo](figle/2025-12-05-chlopa-zamrozilo.md)
+- [2025-12 - mentor zawiesza kariere streamerska](figle/2025-12-mentor-zawiesza-kariere-streamerska.md)
+- [2025-12 - nie weryfikujemy reklamodawcow](figle/2025-12-nie-weryfikujemy-reklamodawcow.md)
+- [Grudzien 2025 - wydarzenia wokol moderacji i streamingu](figle/2025-12-wydarzenia.md)
+- [2025-01-11 - oszustwo i rage quit podczas gry w Among Us](figle/2025-01-11-oszustwo-i-rage-quit-among-us.md)
+- [2024-11-06 - pozostale watki z nagrania XN (bez buntu moderatorow)](figle/2024-11-06-pozostale-watki-z-nagrania-xn.md)
+- [2024-11 - wojna o shoty, prawa autorskie i Kick](figle/2024-11-wojna-o-shoty-prawa-autorskie-i-kick.md)
+- [2024-11 - wyzwanie szachowe, speedruny i Puzzle Rush](figle/2024-11-wyzwanie-szachowe-speedruny-i-puzzle-rush.md)
 - [2024-01-14 - "12 LAT DRAMY - SAD OSTATECZNY" (hub)](figle/2024-01-14-sad-ostateczny-12-lat-dramy.md)
 - [2024-01 - ranking FIDE, turnieje na zywo i spor o realny poziom](figle/2024-01-ranking-fide-turnieje-na-zywo-i-realny-poziom.md)
 - [2024-01 - swiadek z 2012 roku i sprawa "szachista666"](figle/2024-01-swiadek-z-2012-i-sprawa-szachista666.md)
@@ -16,52 +54,38 @@
 - [2024-01 - challenge szachowy, speedruny i Puzzle Rush](figle/2024-01-challenge-szachowy-speedruny-i-puzzle-rush.md)
 - [2024-01 - fabryka fejk kont i tozsamosc "Lady Hetman"](figle/2024-01-fabryka-fejk-kont-i-lady-hetman.md)
 - [2024-01 - agresywny marketing, spam i konflikty ze srodowiskiem](figle/2024-01-agresywny-marketing-spam-i-konflikty.md)
-- [2024-11-06 - pozostale watki z nagrania XN (bez buntu moderatorow)](figle/2024-11-06-pozostale-watki-z-nagrania-xn.md)
-- [2024-11 - wojna o shoty, prawa autorskie i Kick](figle/2024-11-wojna-o-shoty-prawa-autorskie-i-kick.md)
-- [2024-11 - wyzwanie szachowe, speedruny i Puzzle Rush](figle/2024-11-wyzwanie-szachowe-speedruny-i-puzzle-rush.md)
-- [2025-01-11 - oszustwo i rage quit podczas gry w Among Us](figle/2025-01-11-oszustwo-i-rage-quit-among-us.md)
-- [2025-12-05 - chlopa zamrozilo](figle/2025-12-05-chlopa-zamrozilo.md)
-- [2025-12-06 - "czolgi na ulicy" i kolejne figle](figle/2025-12-06-czolgi-na-ulicy-i-kolejne-figle.md)
-- [2025-12-06 - song requesty trollerskie i dwie piosenki](figle/2025-12-06-song-requesty-trollerskie-i-dwie-piosenki.md)
-- [2025-12-06 - ban mentora z wlasnego lobby Haxball](figle/2025-12-06-ban-mentora-z-wlasnego-lobby-haxball.md)
-- [2025-12-06 - koniec Among Us na streamach mentora](figle/2025-12-06-koniec-among-us-na-streamach-mentora.md)
-- [Grudzien 2025 - wydarzenia wokol moderacji i streamingu](figle/2025-12-wydarzenia.md)
-- [2025-12 - mentor zawiesza kariere streamerska](figle/2025-12-mentor-zawiesza-kariere-streamerska.md)
-- [2025-12 - nie weryfikujemy reklamodawcow](figle/2025-12-nie-weryfikujemy-reklamodawcow.md)
-- [2025-12-27 - czytanie nagrody kanalowej](figle/2025-12-27-kacik-czytelniczy.md)
-- [2026-02 - kaciki specjalne: cosplay, dobranocka, walentynki i Wiedzmin 3](figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
-- [2026-02 - cosplay i crossdressing](figle/2026-02-cosplay-i-crossdressing.md)
-- [2026-02 - dobranocka: bajka o uszatym wampirze](figle/2026-02-bajka-uszaty-wampir.md)
-- [2026-02 - walentynkowe wyznania mentora podczas Heavy Rain](figle/2026-02-walentynkowe-wyznania-heavy-rain.md)
-- [2026-02 - Wiedzmin 3: coaching, komentarz redakcyjny i wywiad](figle/2026-02-wiedzmin-3-coaching-i-ocena-redakcji.md)
-- [2026-02 - mentor meczennik czy len](figle/2026-02-mentor-meczennik-czy-len.md)
 - [Watki botow i spamu w przekazach o mentorze](figle/watki-botow-i-spamu.md)
 - [Restreamy i archiwum transmisji](figle/restreamy-i-archiwum.md)
 - [Pseudonimy Szachowego Mentora](figle/pseudonimy-szachowego-mentora.md)
 
 ## Odzywianie
 
-- [2025-12 - zakup Sodastream i relacja ze streama](odzywianie/2025-12-kacik-malego-agd.md)
 - [2026-02 - kacik beauty: platki pod oczy](odzywianie/2026-02-kacik-beauty-platki-pod-oczy.md)
+- [2025-12-08 - promocja oranzzady Helleny - analiza cen i oszczednosci](odzywianie/2025-12-08-promocja-oranzzada-hellena-analiza.md)
+- [2025-12 - zakup Sodastream i relacja ze streama](odzywianie/2025-12-kacik-malego-agd.md)
 
 ## Inwestycje
 
-- [2024-01 - sprzedaz ksiazki, falszywe recenzje i afera z plikiem](inwestycje/2024-01-sprzedaz-ksiazki-falszywe-recenzje-i-afera-z-plikiem.md)
-- [2024-11 - finanse, inwestycje i priorytety wydatkowe mentora](inwestycje/2024-11-finanse-inwestycje-i-priorytety-wydatkowe-mentora.md)
 - [2025-12 - plany na przyszlosc mentora](inwestycje/2025-12-plany-na-przyszlosc-mentora.md)
+- [2024-11 - finanse, inwestycje i priorytety wydatkowe mentora](inwestycje/2024-11-finanse-inwestycje-i-priorytety-wydatkowe-mentora.md)
+- [2024-01 - sprzedaz ksiazki, falszywe recenzje i afera z plikiem](inwestycje/2024-01-sprzedaz-ksiazki-falszywe-recenzje-i-afera-z-plikiem.md)
 - [Cele finansowe i inwestycyjne mentora](inwestycje/cele-finansowe-i-inwestycyjne-mentora.md)
 
 ## Zwiazki
 
-- [2024-01 - odmowa rozliczenia z przeszloscia i spor z XN](zwiazki/2024-01-odmowa-rozliczenia-z-przeszloscia-i-spor-z-xn.md)
-- [2024-11-06 - "zamach stanu" na Discordzie mentora](zwiazki/2024-11-06-zamach-stanu-na-discordzie-mentora.md)
-- [2024-11 - odmowa rozliczenia z przeszloscia i spor z XN](zwiazki/2024-11-odmowa-rozliczenia-z-przeszloscia-i-spor-z-xn.md)
-- [2025-12 - nowi moderatorzy: czy to byl dobry pomysl](zwiazki/2025-12-nowi-moderatorzy-czy-to-byl-dobry-pomysl.md)
-- [2025-12-06 - "atomowka" na Discordzie i wymog 50 wiadomosci](zwiazki/2025-12-06-atomowka-na-discordzie-i-wymog-50-wiadomosci.md)
-- [2025-12 - spory z moderacja i relacje interpersonalne](zwiazki/2025-12-spory-z-moderacja.md)
 - [2026-02 - oda do Koisuru i wywiad srodowiskowy](zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
 - [2026-02 - list otwarty do Koisuru](zwiazki/2026-02-list-otwarty-do-koisuru.md)
 - [2026-02 - transkrypcje wywiadu z Magdalena Natalia](zwiazki/2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
+- [2025-12-13 - czystki rasowe - 300+ banitych z Discorda](zwiazki/2025-12-13-czystki-rasowe-300-banitych-z-discorda.md)
+- [2025-12-08 - poradnik jak uniknac banu na Discordzie](zwiazki/2025-12-08-poradnik-jak-uniknac-banu-na-discordzie.md)
+- [2025-12-08 - merex zbanowany za oblige rodzicow](zwiazki/2025-12-08-merex-zbanowany-za-oblige-rodzicow.md)
+- [2025-12-08 - donosy na widzow XN](zwiazki/2025-12-08-donosy-na-widzow-xn.md)
+- [2025-12-06 - "atomowka" na Discordzie i wymog 50 wiadomosci](zwiazki/2025-12-06-atomowka-na-discordzie-i-wymog-50-wiadomosci.md)
+- [2025-12 - nowi moderatorzy: czy to byl dobry pomysl](zwiazki/2025-12-nowi-moderatorzy-czy-to-byl-dobry-pomysl.md)
+- [2025-12 - spory z moderacja i relacje interpersonalne](zwiazki/2025-12-spory-z-moderacja.md)
+- [2024-11-06 - "zamach stanu" na Discordzie mentora](zwiazki/2024-11-06-zamach-stanu-na-discordzie-mentora.md)
+- [2024-11 - odmowa rozliczenia z przeszloscia i spor z XN](zwiazki/2024-11-odmowa-rozliczenia-z-przeszloscia-i-spor-z-xn.md)
+- [2024-01 - odmowa rozliczenia z przeszloscia i spor z XN](zwiazki/2024-01-odmowa-rozliczenia-z-przeszloscia-i-spor-z-xn.md)
 
 ## Postacie
 

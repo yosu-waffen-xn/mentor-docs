@@ -34,6 +34,8 @@ Podczas streama mentor wymienial cele, ktore uznaje za kluczowe:
 - prawo jazdy
 - zakup czarnego Jaguara (w materialach padaly rozne pulapy cenowe)
 
+![Lista planow na przyszlosc - progres szachowy, edukacja, rodzina i biznes](../../assets/screenshots/2025-12/plany-na-przyszlosc-mentora.png)
+
 Material klipowy:
 - https://streamable.com/a2d572
 

@@ -22,6 +22,14 @@ Triggerem byla obawa przed kolejnymi rajdami trollerskich kont i przekonanie, ze
 Przed 10 grudnia roslo napiecie wokol bezpieczenstwa serwera i moderacji ruchu.
 10 grudnia mentor mianowal 10 nowych moderatorow, liczac na odzyskanie pelnej kontroli.
 
+### 10 grudnia - nominacje i pierwsza fala optymizmu
+
+![Nowi moderatorzy - ogloszenie powierzenia opieki nad serwerem](../../assets/screenshots/2025-12/nowi-moderatorzy-1.jpg)
+
+![Nowi moderatorzy - pelna lista wybranych osob](../../assets/screenshots/2025-12/nowi-moderatorzy-2.png)
+
+![Nowi moderatorzy - reakcja i komentarz o "wielbicielach stopek"](../../assets/screenshots/2025-12/nowi-moderatorzy-3.jpg)
+
 Po nominacjach szybko pojawil sie ostrzejszy tryb dzialan:
 - wdrozono wymog weryfikacji kont na Twitch i Kick
 - praktyka weryfikacyjna byla oceniana jako pozorna
@@ -31,12 +39,20 @@ W relacjach redakcyjnych wskazywano, ze przy decyzjach banowych brano pod uwage 
 - zaimki inne niz he/him
 - awatary odczytywane jako "zbyt kobiece" (np. postacie z dlugimi wlosami)
 
+![Sprzeczne podejscie do kobiet na serwerze - banowanie kont uznanych za kobiece](../../assets/screenshots/2025-12/kobiety-na-serwerze.jpg)
+
 Mentor mial reagowac na to mieszanka ironii i niepokoju, sygnalizujac na streamach, ze nie wszystko w dzialaniach nowej ekipy mu odpowiada.
 Jednoczesnie redakcja przypominala, ze kilka dni wczesniej sam promowal bardzo szerokie bany.
 
 11 i 12 grudnia na kanale #mentorek (serwer Najlepsi Szachisci 2.0) pojawily sie leaki z kanalu administracyjnego serwera Szachowe Krolestwo.
 Po pierwszym wycieku ruszyly natychmiastowe usuniecia czesci moderatorow.
 Drugi wyciek spotegowal panike i przyniosl dalsze "dekapitacje" skladu, wedlug klucza znanego glownie samemu mentorowi.
+
+### 11-12 grudnia - wycieki z zaplecza administracyjnego
+
+![Leak z Yossarian - pierwszy zrzut z kanalu administracji](../../assets/screenshots/2025-12/leak-yossarian-1.jpg)
+
+![Leak z Yossarian - drugi zrzut i dokladniejsze dopracowanie przekazu](../../assets/screenshots/2025-12/leak-yossarian-2.jpg)
 
 ## Skutek
 

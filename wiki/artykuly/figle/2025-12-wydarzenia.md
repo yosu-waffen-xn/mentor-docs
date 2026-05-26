@@ -78,6 +78,25 @@ Szczegoly:
 - [2025-12 - anegdota o trzech srebrnych monetkach](../profil/2025-12-anegdota-o-trzech-srebrnych-monetkach.md)
 - [2025-12-27 - czytanie nagrody kanalowej](2025-12-27-kacik-czytelniczy.md)
 
+### Ciekawostka z wydania
+
+W tej partii materialu zostaly jeszcze obrazki, ktore nie sa osobnym watkiem fabularnym, ale dobrze pokazuja ton calego wydania: mieszanke memow, autokreacji, dziwnych komentarzy i groteskowej pewnosci siebie.
+
+![Ciekawostka 1 - mem o koncu gosciny mentorowskiej](../../assets/screenshots/2025-12/ciekawostka-1.jpg)
+
+![Ciekawostka 2 - tekst o monetkach i otworze na dole](../../assets/screenshots/2025-12/ciekawostka-2.jpg)
+
+![Ciekawostka 3 - selfie przy policji i zrzut z wyjazdu](../../assets/screenshots/2025-12/ciekawostka-3.jpg)
+
+![Ciekawostka 4 - komentarz o glebokosci trzech monetek](../../assets/screenshots/2025-12/ciekawostka-4.jpg)
+
+### Blok F - wyznania arcymistrza i reszta grudniowego kosmosu
+
+To wydanie doczekalo sie tez osobnego, dluzszego opracowania o grudniowej refleksji mentora, milosnych podbojach, gieldowych tyradach i bonusowych odjazdach.
+
+Szczegoly:
+- [2025-12 - wyznania arcymistrza](2025-12-wyznania-arcymistrza.md)
+
 ## Skutek
 Grudzien 2025 utrwalil sie jako miesiac, w ktorym kazdy ruch mentora byl natychmiast rozbierany na czynniki pierwsze.
 Polaczenie emocjonalnych streamow, roszad moderatorskich i leakow sprawilo, ze temat zarzadzania spolecznoscia stal sie wazniejszy niz standardowy content.
