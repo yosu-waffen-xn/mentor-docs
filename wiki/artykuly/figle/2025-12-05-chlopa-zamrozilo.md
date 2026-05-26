@@ -33,7 +33,7 @@ Na etapie przygotowan zaczeto podnosic poziom irytacji mentora przez psucie lobb
 
 Od 20:26 zaczeto seryjnie blokowac mentorowi wejscia do lobby.
 Po kilku blokadach dopuszczono go do jednej rozgrywki, zeby nie zakonczyl transmisji zbyt szybko.
-Nastepnie blokowanie wznowiono.
+Nastepnie blokowanie wznowiono. 
 
 Mentor probowal kolejnych metod obejscia:
 - zmiana nicku na "menti"
