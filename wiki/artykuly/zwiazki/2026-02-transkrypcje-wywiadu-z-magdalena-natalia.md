@@ -1,4 +1,4 @@
-# 2026-02 - transkrypcje wywiadu z Magdalena Natalia
+# 2026-02 - transkrypcje wywiadu z Magdalena "Natalia" Koisuru
 
 ## Co sie stalo
 
@@ -7,7 +7,7 @@ Wypowiedzi obejmuja pytania o przekonania mentora, stabilnosc emocjonalna, grani
 
 ## Kto bral udzial
 
-- Magdalena Natalia (Koisuru)
+- Magdalena Koisuru ("Natalia" jako fejk imie/alias)
 - redakcja: Alyson i Yosu/Yossarian
 - dodatkowi rozmowcy, w tym Pomidor
 
@@ -21,6 +21,10 @@ Najwazniejsze osie pytan i odpowiedzi:
 
 W transkrypcjach wielokrotnie pojawia sie trudnosc z udzieleniem jednoznacznych odpowiedzi.
 To buduje obraz rozmowy, w ktorej redakcja naciska na konkrety, a odpowiedzi pozostaja warunkowe i zalezne od kontekstu.
+
+## Zrzut uzupelniajacy
+
+![Fragment rozmowy o zazdrosci i granicach relacji](../../assets/screenshots/2026-02/2026-02-czat-zazdrosc-kontekst.png)
 
 ## Linki i klipy
 

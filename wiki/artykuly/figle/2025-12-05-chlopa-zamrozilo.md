@@ -33,7 +33,7 @@ Na etapie przygotowan zaczeto podnosic poziom irytacji mentora przez psucie lobb
 
 Od 20:26 zaczeto seryjnie blokowac mentorowi wejscia do lobby.
 Po kilku blokadach dopuszczono go do jednej rozgrywki, zeby nie zakonczyl transmisji zbyt szybko.
-Nastepnie blokowanie wznowiono.
+Nastepnie blokowanie wznowiono. 
 
 Mentor probowal kolejnych metod obejscia:
 - zmiana nicku na "menti"
@@ -73,9 +73,23 @@ W relacjach z tamtego streama przewijaly sie m.in. takie nicki jak:
 "DOSC GIER", "JanApostol", "Jezus", "Ministrant", "UszatyGnoj", "Uszatycwel", "WYSTARCZY", "KacperW", "Wrozbita", "SZATAN", "AGMToUCWEL".
 Wskazywano tez jeden nick o charakterze rasistowskim, ktorego tu nie powielamy doslownie.
 
+## Materiały źródłowe
+
+Publikacja z dnia 05.12.2025:
+- [📄 GŁOS WAFFEN CHŁOPA ZAMROZIŁO (PDF)](../../assets/docs/glos-waffen-chlopa-zamrozilo-2025-12-05-7.pdf)
+
 ## Linki i klipy
 
-- https://streamable.com/qpjt10
+Moment zamrożenia mentora — twarz skupienia i cierpliwości tuż przed eksplozją frustracji:
+
+![Mentor zamrożony — skupiony, wpatruje się w ekran w ciszy](<../../assets/screenshots/2025-12/mentor zamrozony.png>)
+
+Nagranie z climaxu figla (piosenka AI + blokady lobby):
+
+<video src="../../assets/screenshots/2025-12/qpjt10.mp4" controls width="100%"></video>
+
+*(Alternatywnie: [streamable.com/qpjt10](https://streamable.com/qpjt10))*
+
 - https://www.youtube.com/watch?v=0tPMEnrSYjc
 
 ## Powiazania

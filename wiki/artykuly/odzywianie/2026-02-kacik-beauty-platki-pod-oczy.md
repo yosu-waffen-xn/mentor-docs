@@ -15,6 +15,10 @@ Fragment mial forme lekkiego dodatku do glownie polemicznego numeru.
 Wpis przedstawiono jako szybka rekomendacje promocyjna i humorystyczne nawiazanie do estetyki mentora.
 Segment nie rozwija osobnego watku fabularnego, ale domyka numer lżejszym akcentem.
 
+## Zrzut produktu
+
+![Platki pod oczy EFEKTIMA 24K Gold & Hyaluronic Acid](../../assets/screenshots/2026-02/2026-02-beauty-platki-efektima.jpg)
+
 ## Linki i klipy
 
 - brak jawnego linku sklepowego w dostarczonym fragmencie

@@ -24,6 +24,7 @@ Triggerem bylo jednoczesne nakladanie sie kilku napiec:
 ### Oś czasu (hub)
 
 - 2025-12-05: operacja "chlopa zamrozilo" (blokowanie lobby, piosenka AI, mocna reakcja na streamie)
+- 2025-12-06: "czolgi na ulicy" - zaostrzenie zasad Discord, trollowe song requesty, ban z lobby Haxball i deklaracja konca Among Us
 - 2025-12-06: publiczna lista celow zyciowo-finansowych mentora
 - 2025-12-09: ogloszenie przerwy w streamowaniu na Kick
 - 2025-12-10: rozszerzenie skladu moderatorskiego o 10 osob
@@ -37,6 +38,10 @@ Poczatek miesiaca otwiera figiel z 5 grudnia, ktory ustawia ton calego okresu: w
 
 Szczegoly:
 - [2025-12-05 - chlopa zamrozilo](2025-12-05-chlopa-zamrozilo.md)
+- [2025-12-06 - "czolgi na ulicy" i kolejne figle](2025-12-06-czolgi-na-ulicy-i-kolejne-figle.md)
+- [2025-12-06 - song requesty trollerskie i dwie piosenki](2025-12-06-song-requesty-trollerskie-i-dwie-piosenki.md)
+- [2025-12-06 - ban mentora z wlasnego lobby Haxball](2025-12-06-ban-mentora-z-wlasnego-lobby-haxball.md)
+- [2025-12-06 - koniec Among Us na streamach mentora](2025-12-06-koniec-among-us-na-streamach-mentora.md)
 
 ### Blok B - autorefleksja i presja celow
 
@@ -59,6 +64,7 @@ Szczegoly:
 Efekt to kolejne roszady i rosnaca nerwowosc zarzadzania serwerem.
 
 Szczegoly:
+- [2025-12-06 - "atomowka" na Discordzie i wymog 50 wiadomosci](../zwiazki/2025-12-06-atomowka-na-discordzie-i-wymog-50-wiadomosci.md)
 - [2025-12 - nowi moderatorzy: czy to byl dobry pomysl](../zwiazki/2025-12-nowi-moderatorzy-czy-to-byl-dobry-pomysl.md)
 - [2025-12 - spory z moderacja i relacje interpersonalne](../zwiazki/2025-12-spory-z-moderacja.md)
 
@@ -67,9 +73,29 @@ Szczegoly:
 W tym samym okresie kraza poboczne segmenty: ironiczne bloki linkowe i anegdoty obyczajowe, ktore podtrzymuja presje medialna wokol postaci mentora.
 
 Szczegoly:
+- [2025-12-06 - "czolgi na ulicy" i kolejne figle](2025-12-06-czolgi-na-ulicy-i-kolejne-figle.md)
 - [2025-12 - nie weryfikujemy reklamodawcow](2025-12-nie-weryfikujemy-reklamodawcow.md)
 - [2025-12 - anegdota o trzech srebrnych monetkach](../profil/2025-12-anegdota-o-trzech-srebrnych-monetkach.md)
 - [2025-12-27 - czytanie nagrody kanalowej](2025-12-27-kacik-czytelniczy.md)
+
+### Ciekawostka z wydania
+
+W tej partii materialu zostaly jeszcze obrazki, ktore nie sa osobnym watkiem fabularnym, ale dobrze pokazuja ton calego wydania: mieszanke memow, autokreacji, dziwnych komentarzy i groteskowej pewnosci siebie.
+
+![Ciekawostka 1 - mem o koncu gosciny mentorowskiej](../../assets/screenshots/2025-12/ciekawostka-1.jpg)
+
+![Ciekawostka 2 - tekst o monetkach i otworze na dole](../../assets/screenshots/2025-12/ciekawostka-2.jpg)
+
+![Ciekawostka 3 - selfie przy policji i zrzut z wyjazdu](../../assets/screenshots/2025-12/ciekawostka-3.jpg)
+
+![Ciekawostka 4 - komentarz o glebokosci trzech monetek](../../assets/screenshots/2025-12/ciekawostka-4.jpg)
+
+### Blok F - wyznania arcymistrza i reszta grudniowego kosmosu
+
+To wydanie doczekalo sie tez osobnego, dluzszego opracowania o grudniowej refleksji mentora, milosnych podbojach, gieldowych tyradach i bonusowych odjazdach.
+
+Szczegoly:
+- [2025-12 - wyznania arcymistrza](2025-12-wyznania-arcymistrza.md)
 
 ## Skutek
 Grudzien 2025 utrwalil sie jako miesiac, w ktorym kazdy ruch mentora byl natychmiast rozbierany na czynniki pierwsze.
@@ -77,6 +103,17 @@ Polaczenie emocjonalnych streamow, roszad moderatorskich i leakow sprawilo, ze t
 To wlasnie ten okres zbudowal podwaliny pod kolejne fale konfliktow i satyrycznych "raportow" w nastepnych miesiacach.
 
 ## Linki i klipy
+
+### Materiały źródłowe - Głos Waffen
+
+Wydania publikacji "Głos Waffen" z grudnia 2025:
+- [📄 GŁOS WAFFEN CHŁOPA ZAMROZIŁO - 05.12.2025 (PDF)](../../assets/docs/glos-waffen-chlopa-zamrozilo-2025-12-05-7.pdf)
+- [📄 Głos waffen wydanie z dnia 07.12.2025 (PDF)](../../assets/docs/glos-waffen-wydanie-2025-12-07-4.pdf)
+- [📄 GŁOS WAFFEN wydanie z dnia 09.12.2025 (PDF)](../../assets/docs/glos-waffen-wydanie-2025-12-09-2.pdf)
+- [📄 Głos Waffen wydanie z dnia 12.12.2025 (PDF)](../../assets/docs/glos-waffen-wydanie-2025-12-12-5.pdf)
+- [📄 Głos waffen wydanie z dnia 19.12.2025 (PDF)](../../assets/docs/glos-waffen-wydanie-2025-12-19-3-3.pdf)
+
+### Klipy ze streamów
 
 - https://streamable.com/a2d572
 - https://streamable.com/ngftn7
@@ -86,6 +123,7 @@ To wlasnie ten okres zbudowal podwaliny pod kolejne fale konfliktow i satyryczny
 
 - [Szachowy mentor](../profil/szachowy-mentor.md)
 - [2025-12-05 - chlopa zamrozilo](2025-12-05-chlopa-zamrozilo.md)
+- [2025-12-06 - "czolgi na ulicy" i kolejne figle](2025-12-06-czolgi-na-ulicy-i-kolejne-figle.md)
 - [2025-12 - mentor zawiesza kariere streamerska](2025-12-mentor-zawiesza-kariere-streamerska.md)
 - [2025-12 - nie weryfikujemy reklamodawcow](2025-12-nie-weryfikujemy-reklamodawcow.md)
 - [2025-12 - plany na przyszlosc mentora](../inwestycje/2025-12-plany-na-przyszlosc-mentora.md)

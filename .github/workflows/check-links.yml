@@ -28,11 +28,14 @@ jobs:
             foreach($m in $matches) {
               $target = $m.Groups[1].Value.Trim()
               
+              # Strip angle brackets used for paths with spaces e.g. (<path/to file.png>)
+              $target = $target.TrimStart('<').TrimEnd('>')
+              
               # Skip external links and anchors
               if($target -match '^(https?:|mailto:|#)') { continue }
               
               # Extract path (without anchor)
-              $targetPath = $target.Split('#')[0]
+              $targetPath = $target.Split('#')[0].Trim()
               if([string]::IsNullOrWhiteSpace($targetPath)) { continue }
               
               # Check if file exists

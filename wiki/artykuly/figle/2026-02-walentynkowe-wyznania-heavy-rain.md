@@ -18,6 +18,11 @@ Podczas gry Heavy Rain mentor skomentowal opis postaci w sposob, ktory redakcja 
 Czesc odbiorcow potraktowala to jako zart i poczatek nowej osi memicznej.
 Inni uznali wypowiedz za kolejna szpile w konflikcie z obozem Waffen.
 
+## Zrzuty uzupelniajace
+
+![Komentarze o wygladzie i relacjach](../../assets/screenshots/2026-02/2026-02-ocena-wygladu-komentarze.jpg)
+![Kadr ze streamowego ujecia mentora](../../assets/screenshots/2026-02/2026-02-mentor-przy-stole-kadr.jpg)
+
 ## Linki i klipy
 
 - link do shota (brak jawnego URL w dostarczonym fragmencie)

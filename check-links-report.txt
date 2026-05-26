@@ -1,0 +1,27 @@
+﻿=========================================================
+RAPORT WERYFIKACJI LINKOW WIKI
+Wygenerowano: 2026-05-26 12:38:55
+=========================================================
+
+PODSUMOWANIE
+-----------
+[OK] Aktywne linki:    173
+[XX] Brakujace linki:  0
+[!] Brakujace pliki:   0
+
+[OK] AKTYWNE LINKI (probka):
+-----------------------------------------------------------------
+   [đź“– Czytaj README wiki] â†’ wiki/README.md
+   [Szachowy Mentor - profil i chronologia] â†’ wiki/artykuly/profil/szachowy-mentor.md
+   [2024-01-14 - "12 LAT DRAMY - SÄ„D OSTATECZNY"] â†’ wiki/artykuly/figle/2024-01-14-sad-ostateczny-12-lat-dramy.md
+   [2024-11-06 - "zamach stanu" na Discordzie] â†’ wiki/artykuly/zwiazki/2024-11-06-zamach-stanu-na-discordzie-mentora.md
+   [2025-12-05 - chlopa zamrozilo] â†’ wiki/artykuly/figle/2025-12-05-chlopa-zamrozilo.md
+   [Wiki Index] â†’ wiki/INDEX.md
+   [ArtykuĹ‚y] â†’ wiki/artykuly/INDEX.md
+   [Profil i Biografia] â†’ wiki/artykuly/profil/README.md
+   [Figle i Kontrowersje] â†’ wiki/artykuly/figle/README.md
+   [Relacje Interpersonalne] â†’ wiki/artykuly/zwiazki/README.md
+
+   ... i 163 wiÄ™cej
+
+=================================================================

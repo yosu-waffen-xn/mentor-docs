@@ -22,11 +22,17 @@ Triggerem byla kumulacja kilku czynnikow: gorszy nastroj po streamach, napiecie 
 Na Discordzie sygnalizowal brak satysfakcji ze skali i jakosci "community szachowego" oraz rozczarowanie odzewem sprzedazowym.
 Pod koniec streama padla deklaracja, ze transmisje nie poprawiaja mu nastroju.
 
+![Streamy zawieszone do odwolania - komunikat o przerwie](../../assets/screenshots/2025-12/zawieszenie-streamow-1.png)
+
 Material klipowy:
 - https://streamable.com/ngftn7
 
 Rownolegle redakcja wskazywala inny mozliwy powod: analiza profilu lichess i utrate 137 punktow rapid po serii 5 porazek z rzedu.
 W komentarzu eksperckim z materialu podkreslano, ze spadek ELO mogl byc "iskra", a nie jedynym czynnikiem.
+
+![Lichess - spadek rankingu i seria porazek z 9 grudnia](../../assets/screenshots/2025-12/zawieszenie-streamow-2.jpg)
+
+![Reakcja na odpoczynek i brak checi do streamowania](../../assets/screenshots/2025-12/zawieszenie-streamow-3.jpg)
 
 Wedlug stanu z 12.12.2025 mentor utrzymywal postanowienie i od 3 dni nie uruchamial transmisji.
 Dodatkowa aktualizacja z 10.12.2025 wzmacniala ton autorefleksji o marnowaniu czasu przez streaming.

@@ -18,6 +18,13 @@ Wedlug relacji partnerka mentora wlaczyla sie w prowadzenie rozgrywki i podpowia
 Redakcja zestawila ten fakt z krytyczna ocena samodzielnej gry mentora oraz z komentarzem o jego pamieci i pracy na dostepnych danych.
 Nastepnie przytoczono fragment wywiadu srodowiskowego, w ktorym padly pytania o poziom kompetencji i styl myslenia mentora.
 
+## Zrzuty z osi Wiedzmin 3
+
+![Wykres satyryczny: estymowane IQ vs czas grania](../../assets/screenshots/2026-02/2026-02-wiedzmin-iq-vs-czas-grania.png)
+![Status Steam - czas gry 45,7 godz.](../../assets/screenshots/2026-02/2026-02-steam-czas-gry-45h7.jpg)
+![Deklaracja o marnowaniu czasu i pieniedzy na gry](../../assets/screenshots/2026-02/2026-02-gry-marnotrawstwo-pieniedzy-czasu.png)
+![Wypowiedz o Battlefieldzie i niegraniu](../../assets/screenshots/2026-02/2026-02-bf6-nie-gram-komentarz.png)
+
 ## Linki i klipy
 
 - brak jawnego URL do pelnego VOD w dostarczonym fragmencie

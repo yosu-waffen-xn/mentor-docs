@@ -17,6 +17,14 @@ Kompleksowa dokumentacja konfliktu wokół Szachowego Mentora (Aleksandra Radoms
 
 - **[Wiki Index](wiki/INDEX.md)** - struktura całej bazy
 - **[Artykuły](wiki/artykuly/INDEX.md)** - pełna katalog artykułów
+
+### Kategorie artykułów:
+- 👤 **[Profil i Biografia](wiki/artykuly/profil/README.md)** - biografia, wizerunek, model biznesu (4 artykuły)
+- 🎭 **[Figle i Kontrowersje](wiki/artykuly/figle/README.md)** - akcje, memy, spory, transmisje (37 artykułów)
+- 💬 **[Relacje Interpersonalne](wiki/artykuly/zwiazki/README.md)** - osoby, konflikty, dyskusje (18 artykułów)
+- 💰 **[Finanse i Inwestycje](wiki/artykuly/inwestycje/README.md)** - budżet, portfel, wydatki (5 artykułów)
+- 🍛 **[Lifestyle i Kąciki](wiki/artykuly/odzywianie/README.md)** - jedzenie, beauty, AGD (4 artykuły)
+
 - **[Postacie - Waffenowcy](wiki/artykuly/postacie/waffenowcy/INDEX.md)** - 20 profili członków grupy
 - **[Mapa Wiki](wiki/mapy/mapa-wiki.md)** - wizualna struktura (diagram Mermaid)
 
