@@ -7,6 +7,11 @@
 - [2026-05 - kobiety, randki i narracja o relacjach](zwiazki/2026-05-relacje-i-konflikty-na-czacie.md)
 - [2026-05 - kacik zakupowy i nawyki](odzywianie/2026-05-kacik-zakupowy-i-nawyki.md)
 - [2026-05 - autoprezentacja i deklaracje](profil/2026-05-autoprezentacja-i-deklaracje.md)
+- [2026-04 - przeglad dyskusji inwestycyjnych](inwestycje/2026-04-przeglad-dyskusji-inwestycyjnych.md)
+- [2026-04 - streaming, ranking i bany](figle/2026-04-streaming-ranking-i-bany.md)
+- [2026-04 - relacje i konflikty na czacie](zwiazki/2026-04-relacje-i-konflikty-na-czacie.md)
+- [2026-04 - kacik zakupowy i nawyki](odzywianie/2026-04-kacik-zakupowy-i-nawyki.md)
+- [2026-04 - autoprezentacja i deklaracje](profil/2026-04-autoprezentacja-i-deklaracje.md)
 - [2026-03 - kaciki tematyczne: przeglad materialow](figle/2026-03-kaciki-tematyczne-przeglad-materialow.md)
 - [2026-02 - kaciki specjalne, cosplay, dobranocka, walentynki, Wiedzmin 3](figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
 - [2026-02 - watki zwiazkowe: Koisuru i wywiad](zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
@@ -29,6 +34,7 @@
 ## Profil
 
 - [2026-05 - autoprezentacja i deklaracje](profil/2026-05-autoprezentacja-i-deklaracje.md)
+- [2026-04 - autoprezentacja i deklaracje](profil/2026-04-autoprezentacja-i-deklaracje.md)
 - [2025-12 - anegdota o trzech srebrnych monetkach](profil/2025-12-anegdota-o-trzech-srebrnych-monetkach.md)
 - [2024-11 - wizerunek mentora i model widowni](profil/2024-11-wizerunek-mentora-i-model-widowni.md)
 - [2024-01 - fikcyjni wspolpracownicy i sprawa szachy64cba.pl](profil/2024-01-fikcyjni-wspolpracownicy-i-szachy64cba.md)
@@ -37,6 +43,7 @@
 ## Figle
 
 - [2026-05 - streaming, ranking i bany](figle/2026-05-streaming-ranking-i-bany.md)
+- [2026-04 - streaming, ranking i bany](figle/2026-04-streaming-ranking-i-bany.md)
 - [2026-03 - kaciki tematyczne: przeglad materialow](figle/2026-03-kaciki-tematyczne-przeglad-materialow.md)
 - [2025-12-31 - Jak wypadły postanowienia noworoczne? Ocena Pana Uszatka na koniec 2025 (2/10)](figle/2025-12-31-postanowienia-noworoczne-2025-ocena-roku.md)
 - [2026-01-25 - Edycja specjalna adminow: pomoc, bany, autopromocja i kuchenne arcydzielo](figle/2026-01-25-edycja-specjalna-adminow.md)
@@ -83,6 +90,7 @@
 ## Odzywianie
 
 - [2026-05 - kacik zakupowy i nawyki](odzywianie/2026-05-kacik-zakupowy-i-nawyki.md)
+- [2026-04 - kacik zakupowy i nawyki](odzywianie/2026-04-kacik-zakupowy-i-nawyki.md)
 - [2026-02 - kacik beauty: platki pod oczy](odzywianie/2026-02-kacik-beauty-platki-pod-oczy.md)
 - [2025-12-08 - promocja oranzzady Helleny - analiza cen i oszczednosci](odzywianie/2025-12-08-promocja-oranzzada-hellena-analiza.md)
 - [2025-12 - zakup Sodastream i relacja ze streama](odzywianie/2025-12-kacik-malego-agd.md)
@@ -91,6 +99,7 @@
 ## Inwestycje
 
 - [2026-05 - przeglad dyskusji inwestycyjnych](inwestycje/2026-05-przeglad-dyskusji-inwestycyjnych.md)
+- [2026-04 - przeglad dyskusji inwestycyjnych](inwestycje/2026-04-przeglad-dyskusji-inwestycyjnych.md)
 - [2025-12 - plany na przyszlosc mentora](inwestycje/2025-12-plany-na-przyszlosc-mentora.md)
 - [2025-12 - Kącik Inwestycyjny: IMC Spada do -6%, Mentor uczy się trudnych lekcji](inwestycje/2025-12-kacik-inwestycyjny-imc.md)
 - [2024-11 - finanse, inwestycje i priorytety wydatkowe mentora](inwestycje/2024-11-finanse-inwestycje-i-priorytety-wydatkowe-mentora.md)
@@ -100,6 +109,7 @@
 ## Zwiazki
 
 - [2026-05 - kobiety, randki i narracja o relacjach](zwiazki/2026-05-relacje-i-konflikty-na-czacie.md)
+- [2026-04 - relacje i konflikty na czacie](zwiazki/2026-04-relacje-i-konflikty-na-czacie.md)
 - [2026-02 - cosplay i romantyzm: Koisuru case study](zwiazki/2026-02-koisuru-cosplay-i-romantyzm.md)
 - [2026-02 - oda do Koisuru i wywiad srodowiskowy](zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
 - [2026-02 - list otwarty do Koisuru](zwiazki/2026-02-list-otwarty-do-koisuru.md)
