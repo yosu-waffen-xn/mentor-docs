@@ -1,8 +1,8 @@
 ﻿# Relacje Interpersonalne
 
-Relacje z innymi osobami, konflikty z moderacjÄ… i spoĹ‚ecznoĹ›ciÄ…, dyskusje i wywiady
+Relacje z innymi osobami, konflikty z moderacją i społecznością, dyskusje i wywiady
 
-## ArtykuĹ‚y 18
+## Artykuły 18
 - [transkrypcje-wywiadu-z-magdalena-natalia-koisuru-alias](2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
 - [oda-do-koisuru-i-wywiad](2026-02-oda-do-koisuru-i-wywiad.md)
 - [list-otwarty-do-koisuru](2026-02-list-otwarty-do-koisuru.md)
@@ -24,4 +24,4 @@ Relacje z innymi osobami, konflikty z moderacjÄ… i spoĹ‚ecznoĹ›ciÄ…,
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)
+[← Wróć do artykułów](../INDEX.md) | [← Główna wiki](../../README.md)

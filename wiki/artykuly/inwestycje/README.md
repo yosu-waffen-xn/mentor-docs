@@ -1,8 +1,8 @@
 ﻿# Finanse i Inwestycje
 
-Finanse, handlowe przedsiÄ™wziÄ™cia, priorytety wydatkowe, plany rozwojowe, analiza portfela
+Finanse, handlowe przedsięwzięcia, priorytety wydatkowe, plany rozwojowe, analiza portfela
 
-## ArtykuĹ‚y 5
+## Artykuły 5
 - [cele-finansowe-i-inwestycyjne-mentora](cele-finansowe-i-inwestycyjne-mentora.md)
 - [plany-na-przyszlosc-mentora](2025-12-plany-na-przyszlosc-mentora.md)
 - [kacik-inwestycyjny-imc](2025-12-kacik-inwestycyjny-imc.md)
@@ -11,4 +11,4 @@ Finanse, handlowe przedsiÄ™wziÄ™cia, priorytety wydatkowe, plany rozwojowe
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)
+[← Wróć do artykułów](../INDEX.md) | [← Główna wiki](../../README.md)

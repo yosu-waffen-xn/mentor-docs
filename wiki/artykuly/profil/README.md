@@ -2,7 +2,7 @@
 
 Biografia streamera, wizerunek publiczny, modele biznesowe, samoopisy i kariera Aleksandra Radomskiego (Szachowego Mentora)
 
-## ArtykuĹ‚y 4
+## Artykuły 4
 - [szachowy-mentor](szachowy-mentor.md)
 - [anegdota-o-trzech-srebrnych-monetkach](2025-12-anegdota-o-trzech-srebrnych-monetkach.md)
 - [wizerunek-mentora-i-model-widowni](2024-11-wizerunek-mentora-i-model-widowni.md)
@@ -10,4 +10,4 @@ Biografia streamera, wizerunek publiczny, modele biznesowe, samoopisy i kariera 
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)
+[← Wróć do artykułów](../INDEX.md) | [← Główna wiki](../../README.md)

@@ -1,6 +1,6 @@
 ﻿# Figle, Akcje i Kontrowersje
 
-Akcje spoĹ‚eczne, memy, kontrowersje, techniczne i osobowe spory, archiwa transmisji, kÄ…ciki tematyczne
+Akcje społeczne, memy, kontrowersje, techniczne i osobowe spory, archiwa transmisji, kąciki tematyczne
 
 ## Artykuły 48
 
@@ -55,4 +55,4 @@ Akcje spoĹ‚eczne, memy, kontrowersje, techniczne i osobowe spory, archiwa tra
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)
+[← Wróć do artykułów](../INDEX.md) | [← Główna wiki](../../README.md)

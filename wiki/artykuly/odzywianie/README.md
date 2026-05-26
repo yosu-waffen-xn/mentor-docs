@@ -1,6 +1,6 @@
-﻿# Lifestyle i KÄ…ciki
+﻿# Lifestyle i Kąciki
 
-KÄ…ciki lifestyle'owe, sprawa AGD, beauty, zakupy, jedzenie i inne tematy nasze codzienne
+Kąciki lifestyle'owe, sprawa AGD, beauty, zakupy, jedzenie i inne tematy nasze codzienne
 
 ## Artykuły 6
 - [2026-03-kacik-beauty-suplementy](2026-03-kacik-beauty-suplementy.md)
@@ -12,4 +12,4 @@ KÄ…ciki lifestyle'owe, sprawa AGD, beauty, zakupy, jedzenie i inne tematy nas
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)
+[← Wróć do artykułów](../INDEX.md) | [← Główna wiki](../../README.md)
