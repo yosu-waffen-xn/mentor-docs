@@ -1,9 +1,10 @@
 ﻿# Relacje Interpersonalne
 
-Relacje z innymi osobami, konflikty z moderacją i społecznością, dyskusje i wywiady
+Relacje z innymi osobami, konflikty z moderacjÄ… i spoĹ‚ecznoĹ›ciÄ…, dyskusje i wywiady
 
-## Artykuły 18
-- [transkrypcje-wywiadu-z-magdalena-natalia-koisuru-alias](2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
+## ArtykuĹ‚y 19
+- [relacje-i-konflikty-na-czacie](2026-05-relacje-i-konflikty-na-czacie.md)
+- [transkrypcje-wywiadu-z-magdalena-natalia](2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
 - [oda-do-koisuru-i-wywiad](2026-02-oda-do-koisuru-i-wywiad.md)
 - [list-otwarty-do-koisuru](2026-02-list-otwarty-do-koisuru.md)
 - [koisuru-cosplay-i-romantyzm](2026-02-koisuru-cosplay-i-romantyzm.md)
@@ -24,4 +25,4 @@ Relacje z innymi osobami, konflikty z moderacją i społecznością, dyskusje i 
 
 ---
 
-[← Wróć do artykułów](../INDEX.md) | [← Główna wiki](../../README.md)
+[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../README.md)

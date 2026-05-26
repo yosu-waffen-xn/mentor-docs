@@ -1,0 +1,113 @@
+﻿{
+    "month":  "2026-05",
+    "total":  1316,
+    "assigned":  1316,
+    "skipped":  0,
+    "coverage_percent":  100,
+    "by_topic":  [
+                     {
+                         "topic":  "inwestycje",
+                         "count":  542,
+                         "groups":  [
+                                        {
+                                            "group":  "deklaracje_inwestycyjne",
+                                            "count":  438
+                                        },
+                                        {
+                                            "group":  "podejscie_do_ryzyka",
+                                            "count":  82
+                                        },
+                                        {
+                                            "group":  "wyniki_i_metryki",
+                                            "count":  22
+                                        }
+                                    ],
+                         "file":  "groups/inwestycje.json"
+                     },
+                     {
+                         "topic":  "figle",
+                         "count":  653,
+                         "groups":  [
+                                        {
+                                            "group":  "streaming_i_platformy",
+                                            "count":  531
+                                        },
+                                        {
+                                            "group":  "szachy_i_ranking",
+                                            "count":  81
+                                        },
+                                        {
+                                            "group":  "bany_i_moderacja",
+                                            "count":  41
+                                        }
+                                    ],
+                         "file":  "groups/figle.json"
+                     },
+                     {
+                         "topic":  "zwiazki",
+                         "count":  21,
+                         "groups":  [
+                                        {
+                                            "group":  "narracje_o_relacjach",
+                                            "count":  18
+                                        },
+                                        {
+                                            "group":  "wypowiedzi_o_komunikatorach",
+                                            "count":  2
+                                        },
+                                        {
+                                            "group":  "konflikty_i_uszczypliwosci",
+                                            "count":  1
+                                        }
+                                    ],
+                         "file":  "groups/zwiazki.json"
+                     },
+                     {
+                         "topic":  "profil",
+                         "count":  80,
+                         "groups":  [
+                                        {
+                                            "group":  "autoprezentacja",
+                                            "count":  69
+                                        },
+                                        {
+                                            "group":  "plany_i_cele",
+                                            "count":  9
+                                        },
+                                        {
+                                            "group":  "codzienne_ograniczenia",
+                                            "count":  2
+                                        }
+                                    ],
+                         "file":  "groups/profil.json"
+                     },
+                     {
+                         "topic":  "odzywianie",
+                         "count":  20,
+                         "groups":  [
+                                        {
+                                            "group":  "zakupy_i_agd",
+                                            "count":  16
+                                        },
+                                        {
+                                            "group":  "napoje_i_jedzenie",
+                                            "count":  4
+                                        }
+                                    ],
+                         "file":  "groups/odzywianie.json"
+                     }
+                 ],
+    "assignment_modes":  [
+                             {
+                                 "mode":  "keyword",
+                                 "count":  531
+                             },
+                             {
+                                 "mode":  "channel",
+                                 "count":  785
+                             }
+                         ],
+    "skipped_reasons":  [
+
+                        ]
+}

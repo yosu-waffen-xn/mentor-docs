@@ -1,0 +1,61 @@
+﻿{
+    "month":  "2026-05",
+    "total":  1316,
+    "assigned":  1315,
+    "skipped":  1,
+    "coverage_percent":  99.92,
+    "generated_articles":  [
+                               {
+                                   "topic":  "inwestycje",
+                                   "category":  "inwestycje",
+                                   "file":  "wiki\\artykuly\\inwestycje\\2026-05-przeglad-dyskusji-inwestycyjnych.md",
+                                   "quotes":  517
+                               },
+                               {
+                                   "topic":  "figle",
+                                   "category":  "figle",
+                                   "file":  "wiki\\artykuly\\figle\\2026-05-streaming-ranking-i-bany.md",
+                                   "quotes":  691
+                               },
+                               {
+                                   "topic":  "zwiazki",
+                                   "category":  "zwiazki",
+                                   "file":  "wiki\\artykuly\\zwiazki\\2026-05-relacje-i-konflikty-na-czacie.md",
+                                   "quotes":  18
+                               },
+                               {
+                                   "topic":  "profil",
+                                   "category":  "profil",
+                                   "file":  "wiki\\artykuly\\profil\\2026-05-autoprezentacja-i-deklaracje.md",
+                                   "quotes":  70
+                               },
+                               {
+                                   "topic":  "odzywianie",
+                                   "category":  "odzywianie",
+                                   "file":  "wiki\\artykuly\\odzywianie\\2026-05-kacik-zakupowy-i-nawyki.md",
+                                   "quotes":  19
+                               }
+                           ],
+    "assignment_mode_counts":  [
+                                   {
+                                       "mode":  "keyword_match",
+                                       "count":  598
+                                   },
+                                   {
+                                       "mode":  "channel_fallback",
+                                       "count":  717
+                                   }
+                               ],
+    "skipped_reason_counts":  {
+                                  "reason":  "low_signal",
+                                  "count":  1
+                              },
+    "skipped_samples":  [
+                            {
+                                "timestamp":  "2026-05-05T13:42:21.521000+00:00",
+                                "channel_name":  "đź’¬â”‚ogĂłlny",
+                                "text":  "\u003c#1480554422118650089\u003e",
+                                "reason":  "low_signal"
+                            }
+                        ]
+}
