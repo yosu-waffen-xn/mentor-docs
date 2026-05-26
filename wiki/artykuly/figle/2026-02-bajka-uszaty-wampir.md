@@ -17,6 +17,11 @@ Bajka przedstawia mentora jako samotnego pasjonata szachow, ktory spotyka dziewc
 Osia opowiesci jest wspolna partia szachow, przelamanie dystansu i finalna puenta o relacjach miedzyludzkich.
 W warstwie stylu tekst odcina sie od polemicznej czesci numeru i pelni role kontrapunktu.
 
+## Ilustracje segmentu
+
+![Inicjal otwierajacy bajke](../../assets/screenshots/2026-02/2026-02-dobranocka-litera-d.jpg)
+![Okladka bajki o uszatym wampirze](../../assets/screenshots/2026-02/2026-02-dobranocka-okladka-uszaty-wampir.jpg)
+
 ## Linki i klipy
 
 - brak jawnego URL pod ta sekcja

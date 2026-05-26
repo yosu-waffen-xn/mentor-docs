@@ -17,6 +17,13 @@ Po ponad tygodniu bez streama pojawil sie komunikat mentora sugerujacy mozliwy p
 W komentarzu redakcyjnym glowna hipoteza wskazywala na duza liczbe godzin spedzonych w Vampire Survival jako realny powod przerwy.
 Na koniec opublikowano satyryczne podsumowanie i krotka "ciekawostke" podpisana przez kolejnego autora.
 
+## Zrzuty i os czasu przerwy
+
+![Komunikat: urlop do odwolania](../../assets/screenshots/2026-02/2026-02-urlop-do-odwolania.png)
+![Zapowiedz: moze jutro live z Wiedzmina](../../assets/screenshots/2026-02/2026-02-jutro-live-z-wiedzmina.png)
+![Kadr domowy mentora - ujecie korytarzowe](../../assets/screenshots/2026-02/2026-02-mentor-korytarz-kadr.jpg)
+![Selfie mentora w czapce McDonalds](../../assets/screenshots/2026-02/2026-02-mentor-mcdonalds-czapka.jpg)
+
 ## Skutek
 
 Segment utrwalil obraz lutowej przerwy jako kolejnego punktu sporu o wiarygodnosc deklaracji mentora.

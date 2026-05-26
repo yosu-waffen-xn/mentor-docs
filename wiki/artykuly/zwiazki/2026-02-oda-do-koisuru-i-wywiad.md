@@ -7,7 +7,7 @@ Material koncentruje sie na relacji mentora z partnerka, kwestii jawnosci zwiazk
 
 ## Kto bral udzial
 
-- Koisuru (Magdalena, wedlug tresci tekstu)
+- Koisuru (Magdalena; "Natalia" wystepuje jako fejk imie/alias)
 - Szachowy mentor
 - redakcja podpisana jako Alyson i Yosu/Yossarian
 - uczestnicy rozmowy, w tym Pomidor
@@ -22,6 +22,12 @@ Nastepnie pokazano dlugi blok transkrypcji z rozmowy z partnerka mentora, gdzie 
 
 Ze wzgledu na objetosc pakiet zostal rozbity na podstrony szczegolowe.
 
+## Zrzuty uzupelniajace
+
+![Komentarz Koisuru o dbaniu i szczesciu](../../assets/screenshots/2026-02/2026-02-koisuru-atencja-czat.png)
+![Fragment rozmowy o zazdrosci - wersja 1](../../assets/screenshots/2026-02/2026-02-zazdrosc-fragment-czatu.png)
+![Fragment rozmowy o zazdrosci - wersja 2](../../assets/screenshots/2026-02/2026-02-czat-zazdrosc-kontekst.png)
+
 ## Linki i klipy
 
 - brak jednego centralnego linku do calego wywiadu w dostarczonym fragmencie
@@ -30,6 +36,6 @@ Ze wzgledu na objetosc pakiet zostal rozbity na podstrony szczegolowe.
 
 - [2025-12 - spory z moderacja i relacje interpersonalne](2025-12-spory-z-moderacja.md)
 - [2026-02 - list otwarty do Koisuru](2026-02-list-otwarty-do-koisuru.md)
-- [2026-02 - transkrypcje wywiadu z Magdalena Natalia](2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
+- [2026-02 - transkrypcje wywiadu z Magdalena "Natalia" Koisuru](2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
 - [Szachowy mentor](../profil/szachowy-mentor.md)
 - [Rejestr autorstw artykulow](../postacie/waffenowcy/autorstwa-artykulow.md)

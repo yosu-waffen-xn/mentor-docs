@@ -12,11 +12,19 @@ Kompleksowa dokumentacja konfliktu wokół Szachowego Mentora (Aleksandra Radoms
 - [2024-11-06 - "zamach stanu" na Discordzie Mentora](artykuly/zwiazki/2024-11-06-zamach-stanu-na-discordzie-mentora.md) - konflikt moderacyjny
 - [2025-12-05 - chlopa zamrozilo](artykuly/figle/2025-12-05-chlopa-zamrozilo.md) - najnowsza duża kontrowersja
 
+## ⭐ Wyroznione Wydanie Stycznia 2026
+
+Skrocona nawigacja po wydaniu "w 100% przez adminow":
+- [Hub wydania specjalnego](artykuly/figle/2026-01-25-edycja-specjalna-adminow.md)
+- [Pomoc i moderacja](artykuly/figle/2026-01-25-pomoc-i-moderacja.md)
+- [Autopromocja i komentarze](artykuly/figle/2026-01-25-autopromocja-i-komentarze.md)
+- [Fitness, lifestyle i restream](artykuly/figle/2026-01-25-fitness-lifestyle-restream.md)
+
 ## 📚 Struktura wiki
 
 ### Kategorie główne
 
-#### **[Profil](artykuly/profil/)**
+#### **[Profil](artykuly/profil/README.md)**
 Biografia streamera, wizerunek publiczny, modele biznesowe, samoopisy.
 
 Ważne artykuły:
@@ -25,7 +33,7 @@ Ważne artykuły:
 - [2024-01 - fikcyjni współpracownicy i sprawa szachy64cba.pl](artykuly/profil/2024-01-fikcyjni-wspolpracownicy-i-szachy64cba.md)
 - [2024-11 - wizerunek Mentora i model widowni](artykuly/profil/2024-11-wizerunek-mentora-i-model-widowni.md)
 
-#### **[Figle](artykuly/figle/)** 
+#### **[Figle](artykuly/figle/README.md)** 
 Akcje społeczne, memy, kontrowersje, techniczne i osobowe spory, archiwa transmisji.
 
 Kluczowe série:
@@ -49,16 +57,18 @@ Kluczowe série:
   - Walentynkowe wyznania
   - The Witcher 3
 
-#### **[Zwiazki](artykuly/zwiazki/)**
+#### **[Zwiazki](artykuly/zwiazki/README.md)**
 Relacje interpersonalne, konflikty z moderacją, dyskusje i wywiady.
 
 Ważne artykuły:
 - [2024-01 - odmowa rozliczenia z przeszłością i spór z XN](artykuly/zwiazki/2024-01-odmowa-rozliczenia-z-przeszloscia-i-spor-z-xn.md)
 - [2024-11-06 - "zamach stanu" na Discordzie Mentora](artykuly/zwiazki/2024-11-06-zamach-stanu-na-discordzie-mentora.md)
+- [2025-12 - analiza stylu manipulacyjnego Mentora](artykuly/zwiazki/2025-12-analiza-stylu-manipulacyjnego.md)
+- [2025-12-11 - Napoleonka: siedmiodniowy romans i sextingowa samohumorystyka](artykuly/zwiazki/2025-12-11-napoleonka-siedmiodniowy-romans.md)
 - [2025-12 - spory z moderacją i relacje interpersonalne](artykuly/zwiazki/2025-12-spory-z-moderacja.md)
 - [2026-02 - oda do Koisuru i wywiad środowiskowy](artykuly/zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
 
-#### **[Inwestycje](artykuly/inwestycje/)**
+#### **[Inwestycje](artykuly/inwestycje/README.md)**
 Finanse, handlowe przedsięwzięcia, priorytety wydatkowe, plany rozwojowe.
 
 Ważne artykuły:
@@ -67,7 +77,7 @@ Ważne artykuły:
 - [Cele finansowe i inwestycyjne Mentora](artykuly/inwestycje/cele-finansowe-i-inwestycyjne-mentora.md)
 - [2025-12 - plany na przyszłość Mentora](artykuly/inwestycje/2025-12-plany-na-przyszlosc-mentora.md)
 
-#### **[Odzywianie](artykuly/odzywianie/)**
+#### **[Odzywianie](artykuly/odzywianie/README.md)**
 Kąciki lifestyle'owe, sprawa AGD, beauty.
 
 Artykuły:

@@ -2,8 +2,13 @@
 
 ## Oś czasu
 
+- [2026-03 - kaciki tematyczne: przeglad materialow](figle/2026-03-kaciki-tematyczne-przeglad-materialow.md)
 - [2026-02 - kaciki specjalne, cosplay, dobranocka, walentynki, Wiedzmin 3](figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
 - [2026-02 - watki zwiazkowe: Koisuru i wywiad](zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
+- [2026-01-25 - edycja specjalna adminow: pomoc, bany, autopromocja, kuchnia](figle/2026-01-25-edycja-specjalna-adminow.md)
+- [2026-01-25 - pomoc i moderacja](figle/2026-01-25-pomoc-i-moderacja.md)
+- [2026-01-25 - autopromocja i komentarze](figle/2026-01-25-autopromocja-i-komentarze.md)
+- [2026-01-25 - fitness, lifestyle i restream](figle/2026-01-25-fitness-lifestyle-restream.md)
 - [2025-12-27 - czytanie nagrody kanalowej](figle/2025-12-27-kacik-czytelniczy.md)
 - [2025-12 - wyznania arcymistrza](figle/2025-12-wyznania-arcymistrza.md)
 - [2025-12-08..13 - hub: szachy, banery, oranzzada](figle/2025-12-08-13-szachy-banery-oranzzada.md)
@@ -25,6 +30,12 @@
 
 ## Figle
 
+- [2026-03 - kaciki tematyczne: przeglad materialow](figle/2026-03-kaciki-tematyczne-przeglad-materialow.md)
+- [2025-12-31 - Jak wypadły postanowienia noworoczne? Ocena Pana Uszatka na koniec 2025 (2/10)](figle/2025-12-31-postanowienia-noworoczne-2025-ocena-roku.md)
+- [2026-01-25 - Edycja specjalna adminow: pomoc, bany, autopromocja i kuchenne arcydzielo](figle/2026-01-25-edycja-specjalna-adminow.md)
+- [2026-01-25 - Pomoc i moderacja (wydanie specjalne)](figle/2026-01-25-pomoc-i-moderacja.md)
+- [2026-01-25 - Autopromocja i komentarze (wydanie specjalne)](figle/2026-01-25-autopromocja-i-komentarze.md)
+- [2026-01-25 - Fitness, lifestyle i restream (wydanie specjalne)](figle/2026-01-25-fitness-lifestyle-restream.md)
 - [2026-02 - kaciki specjalne: cosplay, dobranocka, walentynki i Wiedzmin 3](figle/2026-02-kaciki-specjalne-cosplay-dobranocka-walentynki.md)
 - [2026-02 - cosplay i crossdressing](figle/2026-02-cosplay-i-crossdressing.md)
 - [2026-02 - dobranocka: bajka o uszatym wampirze](figle/2026-02-bajka-uszaty-wampir.md)
@@ -32,6 +43,10 @@
 - [2026-02 - Wiedzmin 3: coaching, komentarz redakcyjny i wywiad](figle/2026-02-wiedzmin-3-coaching-i-ocena-redakcji.md)
 - [2026-02 - mentor meczennik czy len](figle/2026-02-mentor-meczennik-czy-len.md)
 - [2025-12-27 - czytanie nagrody kanalowej](figle/2025-12-27-kacik-czytelniczy.md)
+- [2025-12 - Charity Washing: 100 PLN mentora, który zbierała społeczność](figle/2025-12-charity-washing-100-pln.md)
+- [2025-12 - Ciekawostka: zakolanówki i fetyszyzm mentora](figle/2025-12-ciekawostka-zakolanowki.md)
+- [2025-12 - Kącik Spermiarski: brudne rozmowy Mentora z Koisuru](figle/2025-12-kacik-spermiarski-koisuru.md)
+- [2025-12 - Kostium Mikołaja: tandetna przygoda, zwrócona po użyciu](figle/2025-12-kostium-mikolaja-tandetna-przyygoda.md)
 - [2025-12-08-13 - szachy, banery, oranzzada (hub)](figle/2025-12-08-13-szachy-banery-oranzzada.md)
 - [2025-12-08 - maszynista z Waffen atakuje na Lichessie](figle/2025-12-08-maszynista-z-waffen-atakuje-na-lichessie.md)
 - [2025-12-XX - Lady Hetman - plotka o drag queen](figle/2025-12-XX-lady-hetman-plotka-o-drag-queen.md)
@@ -63,19 +78,26 @@
 - [2026-02 - kacik beauty: platki pod oczy](odzywianie/2026-02-kacik-beauty-platki-pod-oczy.md)
 - [2025-12-08 - promocja oranzzady Helleny - analiza cen i oszczednosci](odzywianie/2025-12-08-promocja-oranzzada-hellena-analiza.md)
 - [2025-12 - zakup Sodastream i relacja ze streama](odzywianie/2025-12-kacik-malego-agd.md)
+- [2025-12 - Kącik Zakupowy: paragon 109,94 PLN i 7,5 kg mandarynek](odzywianie/2025-12-kacik-zakupowy-paragon-mandarynki.md)
 
 ## Inwestycje
 
 - [2025-12 - plany na przyszlosc mentora](inwestycje/2025-12-plany-na-przyszlosc-mentora.md)
+- [2025-12 - Kącik Inwestycyjny: IMC Spada do -6%, Mentor uczy się trudnych lekcji](inwestycje/2025-12-kacik-inwestycyjny-imc.md)
 - [2024-11 - finanse, inwestycje i priorytety wydatkowe mentora](inwestycje/2024-11-finanse-inwestycje-i-priorytety-wydatkowe-mentora.md)
 - [2024-01 - sprzedaz ksiazki, falszywe recenzje i afera z plikiem](inwestycje/2024-01-sprzedaz-ksiazki-falszywe-recenzje-i-afera-z-plikiem.md)
 - [Cele finansowe i inwestycyjne mentora](inwestycje/cele-finansowe-i-inwestycyjne-mentora.md)
 
 ## Zwiazki
 
+- [2026-02 - cosplay i romantyzm: Koisuru case study](zwiazki/2026-02-koisuru-cosplay-i-romantyzm.md)
 - [2026-02 - oda do Koisuru i wywiad srodowiskowy](zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
 - [2026-02 - list otwarty do Koisuru](zwiazki/2026-02-list-otwarty-do-koisuru.md)
-- [2026-02 - transkrypcje wywiadu z Magdalena Natalia](zwiazki/2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
+- [2026-02 - transkrypcje wywiadu z Magdalena "Natalia" Koisuru](zwiazki/2026-02-transkrypcje-wywiadu-z-magdalena-natalia.md)
+- [2025-12 - analiza stylu manipulacyjnego mentora](zwiazki/2025-12-analiza-stylu-manipulacyjnego.md)
+- [2025-12-11 - Napoleonka: siedmiodniowy romans z rzeczywistą dziewczyną](zwiazki/2025-12-11-napoleonka-siedmiodniowy-romans.md)
+- [2025-12 - GaduGadu: obsesja na stopach, cream-licking i rozmiar 44](zwiazki/2025-12-gadugadu-obsesja-na-stopach.md)
+- [2025-12 - Laylo: moderator w morsie wladzy](zwiazki/2025-12-laylo-moderator-w-morsie-wladzy.md)
 - [2025-12-13 - czystki rasowe - 300+ banitych z Discorda](zwiazki/2025-12-13-czystki-rasowe-300-banitych-z-discorda.md)
 - [2025-12-08 - poradnik jak uniknac banu na Discordzie](zwiazki/2025-12-08-poradnik-jak-uniknac-banu-na-discordzie.md)
 - [2025-12-08 - merex zbanowany za oblige rodzicow](zwiazki/2025-12-08-merex-zbanowany-za-oblige-rodzicow.md)

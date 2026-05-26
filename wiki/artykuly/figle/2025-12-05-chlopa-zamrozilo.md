@@ -73,6 +73,11 @@ W relacjach z tamtego streama przewijaly sie m.in. takie nicki jak:
 "DOSC GIER", "JanApostol", "Jezus", "Ministrant", "UszatyGnoj", "Uszatycwel", "WYSTARCZY", "KacperW", "Wrozbita", "SZATAN", "AGMToUCWEL".
 Wskazywano tez jeden nick o charakterze rasistowskim, ktorego tu nie powielamy doslownie.
 
+## Materiały źródłowe
+
+Publikacja z dnia 05.12.2025:
+- [📄 GŁOS WAFFEN CHŁOPA ZAMROZIŁO (PDF)](../../assets/docs/GŁOS%20WAFFEN%20CHŁOPA%20ZAMROZIŁO%20Publikacja%20z%20dnia%2005_12_2025-7.pdf)
+
 ## Linki i klipy
 
 Moment zamrożenia mentora — twarz skupienia i cierpliwości tuż przed eksplozją frustracji:

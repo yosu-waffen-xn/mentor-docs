@@ -104,6 +104,17 @@ To wlasnie ten okres zbudowal podwaliny pod kolejne fale konfliktow i satyryczny
 
 ## Linki i klipy
 
+### Materiały źródłowe - Głos Waffen
+
+Wydania publikacji "Głos Waffen" z grudnia 2025:
+- [📄 GŁOS WAFFEN CHŁOPA ZAMROZIŁO - 05.12.2025 (PDF)](../../assets/docs/GŁOS%20WAFFEN%20CHŁOPA%20ZAMROZIŁO%20Publikacja%20z%20dnia%2005_12_2025-7.pdf)
+- [📄 Głos waffen wydanie z dnia 07.12.2025 (PDF)](../../assets/docs/Głos%20waffen%20wydanie%20z%20dnia%2007.12.2025-4.pdf)
+- [📄 GŁOS WAFFEN wydanie z dnia 09.12.2025 (PDF)](../../assets/docs/GŁOS%20WAFFEN%20wydanie%20z%20dnia%2009.12.2025-2.pdf)
+- [📄 Głos Waffen wydanie z dnia 12.12.2025 (PDF)](../../assets/docs/Głos%20Waffen%20wydanie%20z%20dnia%2012.12.2025-5.pdf)
+- [📄 Głos waffen wydanie z dnia 19.12.2025 (PDF)](../../assets/docs/Głos%20waffen%20wydanie%20z%20dnia%2019.12.2025-3-3.pdf)
+
+### Klipy ze streamów
+
 - https://streamable.com/a2d572
 - https://streamable.com/ngftn7
 - https://streamable.com/qpjt10

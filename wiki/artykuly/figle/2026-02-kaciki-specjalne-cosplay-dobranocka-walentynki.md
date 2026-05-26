@@ -1,5 +1,7 @@
 # 2026-02 - kaciki specjalne: cosplay, dobranocka, walentynki i Wiedzmin 3
 
+![Baner numeru lutowego](../../assets/screenshots/2026-02/2026-02-numer-glos-waffen-banner.jpg)
+
 ## Co sie stalo
 
 W jednym pakiecie redakcyjnym zebrano kilka lekkich, satyrycznych segmentow o mentorze: cosplay, dobranocke, walentynkowe komentarze, beauty oraz komentarz do streamow z Wiedzmina 3.
@@ -22,6 +24,15 @@ Pakiet dzieli sie na kilka osobnych osi, z ktorych kazda dostala osobny podartyk
 - krotki segment beauty
 
 Takie rozbicie pozwala czytac numer warstwowo: od lekkiej satyry po bardziej konfliktowe watki relacyjne.
+
+## Galeria numeru (zestaw z tmp)
+
+![Strefa reklam - motyw numeru](../../assets/screenshots/2026-02/2026-02-strefa-reklam-logo.jpg)
+![Ostre brydze - motyw poboczny](../../assets/screenshots/2026-02/2026-02-ostre-brydze-logo.jpg)
+![Yosu Bizzare Adventure - plakat satyryczny](../../assets/screenshots/2026-02/2026-02-yosu-bizzare-adventure-plakat.jpg)
+![Grafika World of Tanks](../../assets/screenshots/2026-02/2026-02-world-of-tanks-grafika.jpg)
+![Grafika Kujawski](../../assets/screenshots/2026-02/2026-02-kujawski-olej-grafika.jpg)
+![Krzyzowka redakcyjna](../../assets/screenshots/2026-02/2026-02-krzyzowka-redakcyjna.png)
 
 ## Linki i klipy
 
