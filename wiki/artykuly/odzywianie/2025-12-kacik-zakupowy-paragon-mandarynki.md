@@ -86,10 +86,10 @@ Mentor lubi **precyzyjne, mierzalne kategorie**, które mogą być **kontrolowan
 ## Powiązania
 
 - [2025-12 - Kącik Inwestycyjny: IMC Spada](../inwestycje/2025-12-kacik-inwestycyjny-imc.md)
-- [2025-12 - analiza stylu manipulacyjnego mentora](../../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (obsesja na liczbach/szczegółach)
+- [2025-12 - analiza stylu manipulacyjnego mentora](../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (obsesja na liczbach/szczegółach)
 - [2024-11 - finanse, inwestycje i priorytety wydatkowe mentora](../inwestycje/2024-11-finanse-inwestycje-i-priorytety-wydatkowe-mentora.md)
-- [Głos Waffen - archiwum](../../../zrodla/README.md)
-- [Szachowy mentor](../../profil/szachowy-mentor.md)
+- [Głos Waffen - archiwum](../../zrodla/README.md)
+- [Szachowy mentor](../profil/szachowy-mentor.md)
 
 ## Screeny
 

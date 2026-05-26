@@ -59,7 +59,7 @@ W tle pojawia sie tez bezpiecznik na jego swiadomosci, czyli wierny moderator, k
 
 ![Wyznania arcymistrza - juz prawie spokojnie, czyli zaraz bedzie gorzej](../../assets/screenshots/2025-12/refleksja-19.png)
 
-![Wyznania arcymistrza - dopisek o przyszlosci, ktora i tak zaraz sie rozleci](../../assets/screenshots/2025-12/refleksja-21.png)
+![Wyznania arcymistrza - dopisek o przyszlosci, ktora i tak zaraz sie rozleci](../../assets/screenshots/2025-12/refleksja-21.jpg)
 
 ![Wyznania arcymistrza - plany niby wielkie, a ton dalej ten sam: napiecie i autopotwierdzanie](../../assets/screenshots/2025-12/refleksja-30.png)
 
@@ -69,7 +69,7 @@ W tle pojawia sie tez bezpiecznik na jego swiadomosci, czyli wierny moderator, k
 
 ### Mentor zbyt idealny? Podboje milosne ciag dalszy!
 
-Zerwanie z N*poleonką nie zatrzymalo poszukiwania atencji i nowej narracji o milosci.
+Zerwanie z Napoleonką nie zatrzymalo poszukiwania atencji i nowej narracji o milosci.
 Mentor przeniosl swoje dzialania na kolejne platformy i zaczal przypominac starsze taktyki, lacznie z wracaniem do dawnych miejsc i starych nawykow manipulacyjnych.
 
 Istotny jest tu szczegol: nie chcial, by wieść o tym poszukiwaniu milosci na GaduGadu czy innych miejscach wyleciala do jego "śmiertelnych wrogów".

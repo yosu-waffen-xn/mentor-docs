@@ -12,4 +12,4 @@ KÄ…ciki lifestyle'owe, sprawa AGD, beauty, zakupy, jedzenie i inne tematy nas
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../README.md)
+[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)

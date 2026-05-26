@@ -10,4 +10,4 @@ Biografia streamera, wizerunek publiczny, modele biznesowe, samoopisy i kariera 
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../README.md)
+[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)

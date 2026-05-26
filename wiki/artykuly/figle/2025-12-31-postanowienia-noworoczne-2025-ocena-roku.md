@@ -241,7 +241,7 @@ Redakcja Głosu Waffen życzył czytelnikom powodzenia, ale z złośliwym zadyse
 
 - [2025-12-11 - Napoleonka: siedmiodniowy romans i ideologiczna hipokryzja](../zwiazki/2025-12-11-napoleonka-siedmiodniowy-romans.md) — historia z Napoleonką
 - [2025-12 - Kącik Inwestycyjny: IMC spada do -6%, Mentor uczy się trudnych lekcji](../inwestycje/2025-12-kacik-inwestycyjny-imc.md) — analiza portfela
-- [2024-11 - rekordy szachowe mentora na lichessie](../figle/2024-11-rekordy-szachowe.md) — porównanie wyników Lichessa
+- [2024-11 - wyzwanie szachowe, speedruny i Puzzle Rush](2024-11-wyzwanie-szachowe-speedruny-i-puzzle-rush.md) — porównanie wyników Lichessa
 - [Szachowy Mentor - profil i chronologia](../profil/szachowy-mentor.md) — profil główny
 
 ---

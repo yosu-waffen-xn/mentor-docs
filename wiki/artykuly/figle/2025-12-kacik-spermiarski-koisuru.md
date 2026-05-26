@@ -76,11 +76,11 @@ To pokazuje, że dla niego **granice to suggestie, a nie reguły**.
 
 ## Powiązania
 
-- [2026-02 - cosplay i romantyzm: Koisuru case study](../../zwiazki/2026-02-koisuru-cosplay-i-romantyzm.md)
-- [2025-12 - analiza stylu manipulacyjnego mentora](../../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (edukacyjna pozycja, brak granic)
-- [2025-12 - GaduGadu: obsesja na stopach](../../zwiazki/2025-12-gadugadu-obsesja-na-stopach.md) (inne obsesje seksualne)
-- [Głos Waffen - archiwum](../../../zrodla/README.md)
-- [Szachowy mentor](../../profil/szachowy-mentor.md)
+- [2026-02 - cosplay i romantyzm: Koisuru case study](../zwiazki/2026-02-koisuru-cosplay-i-romantyzm.md)
+- [2025-12 - analiza stylu manipulacyjnego mentora](../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (edukacyjna pozycja, brak granic)
+- [2025-12 - GaduGadu: obsesja na stopach](../zwiazki/2025-12-gadugadu-obsesja-na-stopach.md) (inne obsesje seksualne)
+- [Głos Waffen - archiwum](../../zrodla/README.md)
+- [Szachowy mentor](../profil/szachowy-mentor.md)
 
 ## Screeny
 

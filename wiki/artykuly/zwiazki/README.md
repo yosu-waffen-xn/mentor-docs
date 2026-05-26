@@ -24,4 +24,4 @@ Relacje z innymi osobami, konflikty z moderacjÄ… i spoĹ‚ecznoĹ›ciÄ…,
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../README.md)
+[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)

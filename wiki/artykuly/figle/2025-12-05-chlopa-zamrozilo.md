@@ -76,7 +76,7 @@ Wskazywano tez jeden nick o charakterze rasistowskim, ktorego tu nie powielamy d
 ## Materiały źródłowe
 
 Publikacja z dnia 05.12.2025:
-- [📄 GŁOS WAFFEN CHŁOPA ZAMROZIŁO (PDF)](../../assets/docs/GŁOS%20WAFFEN%20CHŁOPA%20ZAMROZIŁO%20Publikacja%20z%20dnia%2005_12_2025-7.pdf)
+- [📄 GŁOS WAFFEN CHŁOPA ZAMROZIŁO (PDF)](../../assets/docs/glos-waffen-chlopa-zamrozilo-2025-12-05-7.pdf)
 
 ## Linki i klipy
 

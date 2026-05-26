@@ -122,7 +122,7 @@ Nie planuje **wykorzystania potencjału zakupionego sprzętu** — kupuje, ekspe
 ## Powiązania
 
 - [2025-12 - Kącik Zakupowy: Paragon 109,94 PLN i 7,5 kg Mandarynek](2025-12-kacik-zakupowy-paragon-mandarynki.md)
-- [2025-12 - Kącik Spermiarski: Brudne rozmowy Mentora z Koisuru](2025-12-kacik-spermiarski-koisuru.md)
+- [2025-12 - Kącik Spermiarski: Brudne rozmowy Mentora z Koisuru](../figle/2025-12-kacik-spermiarski-koisuru.md)
 - [2026-02 - Oda do Koisuru i Wywiad Środowiskowy](../zwiazki/2026-02-oda-do-koisuru-i-wywiad.md)
 
 ---

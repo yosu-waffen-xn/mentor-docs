@@ -11,4 +11,4 @@ Finanse, handlowe przedsiÄ™wziÄ™cia, priorytety wydatkowe, plany rozwojowe
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../README.md)
+[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)

@@ -55,4 +55,4 @@ Akcje spoĹ‚eczne, memy, kontrowersje, techniczne i osobowe spory, archiwa tra
 
 ---
 
-[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../README.md)
+[â† WrĂłc do artykuĹ‚Ăłw](../INDEX.md) | [â† GĹ‚Ăłwna wiki](../../README.md)

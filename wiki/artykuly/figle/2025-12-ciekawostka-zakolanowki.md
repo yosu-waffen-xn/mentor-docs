@@ -104,13 +104,13 @@ Jeśli mentor wysyłał zakolanówki zdjęcia osobom mniejszej wiary (młódsze 
 
 ## Powiązania
 
-- [2025-12 - GaduGadu: obsesja na stopach, cream-licking](../../zwiazki/2025-12-gadugadu-obsesja-na-stopach.md)
+- [2025-12 - GaduGadu: obsesja na stopach, cream-licking](../zwiazki/2025-12-gadugadu-obsesja-na-stopach.md)
 - [2025-12 - Kącik Spermiarski: brudne rozmowy Koisuru](../figle/2025-12-kacik-spermiarski-koisuru.md)
-- [2026-02 - cosplay i romantyzm: Koisuru case study](../../zwiazki/2026-02-koisuru-cosplay-i-romantyzm.md)
-- [2025-12 - analiza stylu manipulacyjnego mentora](../../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (obsesja na szczegółach)
+- [2026-02 - cosplay i romantyzm: Koisuru case study](../zwiazki/2026-02-koisuru-cosplay-i-romantyzm.md)
+- [2025-12 - analiza stylu manipulacyjnego mentora](../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (obsesja na szczegółach)
 - [2024-01 - fabryka fejk kont i tozsamosc "Lady Hetman"](../figle/2024-01-fabryka-fejk-kont-i-lady-hetman.md)
-- [Głos Waffen - archiwum](../../../zrodla/README.md)
-- [Szachowy mentor](../../profil/szachowy-mentor.md)
+- [Głos Waffen - archiwum](../../zrodla/README.md)
+- [Szachowy mentor](../profil/szachowy-mentor.md)
 
 ## Screeny
 

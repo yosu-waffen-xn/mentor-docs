@@ -27,9 +27,9 @@ Cała sytuacja miała charakter głównie memiczny i konfliktowy, bez realnych d
 ## Galeria
 
 ![Zrzut 28 - Emocjonalne wypowiedzi](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-28.jpg)
-![Zrzut 29 - Propozycje konfrontacji](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-29.jpg)
+![Zrzut 29 - Propozycje konfrontacji](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-29.png)
 ![Zrzut 30 - Zaproponowani przeciwnicy](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-30.jpg)
-![Zrzut 31 - Dyskusja w community](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-31.jpg)
+![Zrzut 31 - Dyskusja w community](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-31.png)
 ![Zrzut 32 - Teorie fanowskie](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-32.png)
 ![Zrzut 33 - Spekulacje o motywach](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-33.jpg)
 ![Zrzut 34 - Internetowy performance](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-34.png)

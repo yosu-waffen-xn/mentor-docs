@@ -96,8 +96,8 @@ To jest kolejna forma **self-promotion**: "Daję moje książki jako edukacyjne 
 
 ## Powiązania
 
-- [2025-12 - analiza stylu manipulacyjnego mentora](../../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (defensywna auto-samoreklama)
-- [2024-11 - wizerunek mentora i model widowni](../../profil/2024-11-wizerunek-mentora-i-model-widowni.md)
-- [2025-12 - kacik zakupowy: paragon i mandarynki](2025-12-kacik-zakupowy-paragon-mandarynki.md)
-- [Głos Waffen - archiwum](../../../zrodla/README.md)
-- [Szachowy mentor](../../profil/szachowy-mentor.md)
+- [2025-12 - analiza stylu manipulacyjnego mentora](../zwiazki/2025-12-analiza-stylu-manipulacyjnego.md) (defensywna auto-samoreklama)
+- [2024-11 - wizerunek mentora i model widowni](../profil/2024-11-wizerunek-mentora-i-model-widowni.md)
+- [2025-12 - kacik zakupowy: paragon i mandarynki](../odzywianie/2025-12-kacik-zakupowy-paragon-mandarynki.md)
+- [Głos Waffen - archiwum](../../zrodla/README.md)
+- [Szachowy mentor](../profil/szachowy-mentor.md)

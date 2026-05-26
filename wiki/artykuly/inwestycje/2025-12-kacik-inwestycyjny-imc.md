@@ -92,11 +92,11 @@ Jeśli mentor zbierał pieniądze na "inwestycje" lub promował te inwestycje:
 
 ## Powiązania
 
-- [2025-12 - plany na przyszłość mentora](../../inwestycje/2025-12-plany-na-przyszlosc-mentora.md)
-- [2024-11 - finanse, inwestycje i priorytety wydatkowe mentora](../../inwestycje/2024-11-finanse-inwestycje-i-priorytety-wydatkowe-mentora.md)
-- [2025-12 - Kącik Zakupowy: paragon i mandarynki](2025-12-kacik-zakupowy-paragon-mandarynki.md)
-- [Głos Waffen - archiwum](../../../zrodla/README.md)
-- [Szachowy mentor](../../profil/szachowy-mentor.md)
+- [2025-12 - plany na przyszłość mentora](2025-12-plany-na-przyszlosc-mentora.md)
+- [2024-11 - finanse, inwestycje i priorytety wydatkowe mentora](2024-11-finanse-inwestycje-i-priorytety-wydatkowe-mentora.md)
+- [2025-12 - Kącik Zakupowy: paragon i mandarynki](../odzywianie/2025-12-kacik-zakupowy-paragon-mandarynki.md)
+- [Głos Waffen - archiwum](../../zrodla/README.md)
+- [Szachowy mentor](../profil/szachowy-mentor.md)
 
 ## Screeny
 
