@@ -32,6 +32,11 @@ Aktualne przypisania:
 - 2024-11-wizerunek-mentora-i-model-widowni -> brak jawnego podpisu w dostarczonym fragmencie
 - 2025-01-11-oszustwo-i-rage-quit-among-us -> brak jawnego podpisu w dostarczonym fragmencie
 - 2025-12-05-chlopa-zamrozilo -> brak jawnego podpisu w dostarczonym fragmencie; operacja opisana jako prowadzona pod przywodztwem Yossariana
+- 2025-12-06-czolgi-na-ulicy-i-kolejne-figle -> brak jawnego podpisu w dostarczonym fragmencie
+- 2025-12-06-song-requesty-trollerskie-i-dwie-piosenki -> brak jawnego podpisu w dostarczonym fragmencie
+- 2025-12-06-ban-mentora-z-wlasnego-lobby-haxball -> brak jawnego podpisu w dostarczonym fragmencie
+- 2025-12-06-koniec-among-us-na-streamach-mentora -> brak jawnego podpisu w dostarczonym fragmencie
+- 2025-12-06-atomowka-na-discordzie-i-wymog-50-wiadomosci -> brak jawnego podpisu w dostarczonym fragmencie
 - 2025-12-nowi-moderatorzy-czy-to-byl-dobry-pomysl -> Red. Alyson Stark
 - 2025-12-plany-na-przyszlosc-mentora -> Red. dy1ngst4r
 - 2025-12-mentor-zawiesza-kariere-streamerska -> Red. Capybara; aktualizacja watku: Red. Szalwia

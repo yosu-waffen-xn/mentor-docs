@@ -21,6 +21,17 @@ W relacji pojawiaja sie trzy glowne punkty:
 
 W praktyce temat zostal przedstawiony jako mieszanka performansu, humoru i marketingu streamowego.
 
+## Zrzuty i material graficzny
+
+Uwaga redakcyjna: ponizsze dwa zdjecia sylwetek nie przedstawiaja Koisuru.
+
+![Zdjecie pogladowe - kobieta w rozowej sukni](../../assets/screenshots/2026-02/2026-02-kobieta-suknia-rozowa.jpg)
+![Zdjecie pogladowe - kobieta w czerwonej bluzce](../../assets/screenshots/2026-02/2026-02-kobieta-czerwona-bluzka.jpg)
+![Komentarz o fapfolderze - 1](../../assets/screenshots/2026-02/2026-02-cosplay-fapfolder-komentarz-1.png)
+![Komentarz o fapfolderze - 2](../../assets/screenshots/2026-02/2026-02-cosplay-fapfolder-komentarz-2.png)
+![Mentor - selfie w lustrze](../../assets/screenshots/2026-02/2026-02-mentor-selfie-w-lustrze.jpg)
+![Mentor - selfie w czapce McDonalds](../../assets/screenshots/2026-02/2026-02-mentor-selfie-czapka-mcd.jpg)
+
 ## Linki i klipy
 
 - brak jawnego URL bezposrednio pod ta sekcja w dostarczonym fragmencie
