@@ -39,14 +39,14 @@ Całość stała się jednym z głównych powodów, dla których wokół działa
 
 ## Galeria
 
-![Zrzut 51 - Historia konfliktów](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-51.jpg)
-![Zrzut 52 - Emocjonalne wpisy](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-52.jpg)
+![Zrzut 51 - Historia konfliktów](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-51.png)
+![Zrzut 52 - Emocjonalne wpisy](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-52.png)
 ![Zrzut 53 - Agresywna komunikacja](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-53.jpg)
-![Zrzut 54 - Dokumentacja zachowań](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-54.jpg)
-![Zrzut 55 - Wpisy problematyczne](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-55.jpg)
+![Zrzut 54 - Dokumentacja zachowań](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-54.png)
+![Zrzut 55 - Wpisy problematyczne](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-55.png)
 ![Zrzut 56 - Dyskusja społeczna](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-56.jpg)
 ![Zrzut 57 - Analiza wzorców](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-57.jpg)
-![Zrzut 58 - Podsumowanie konfliktów](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-58.jpg)
+![Zrzut 58 - Podsumowanie konfliktów](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-58.png)
 
 ---
 

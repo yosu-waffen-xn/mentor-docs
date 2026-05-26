@@ -35,7 +35,7 @@ Mimo kontrowersji temat szybko stał się kolejnym elementem internetowego folkl
 ## Galeria
 
 ![Zrzut 59 - Wielkanocna przesyłka](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-59.jpg)
-![Zrzut 60 - Przesłanie od społeczności](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-60.jpg)
+![Zrzut 60 - Przesłanie od społeczności](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-60.png)
 ![Zrzut 61 - Reakcja Mentora](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-61.jpg)
 ![Zrzut 62 - Spekulacje społeczne](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-62.jpg)
 ![Zrzut 63 - Podsumowanie](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-63.png)

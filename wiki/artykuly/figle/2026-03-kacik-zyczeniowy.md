@@ -44,19 +44,19 @@ Spora część dokumentacji dotyczy wypowiedzi wobec konkretnych osób, gdzie Me
 
 ## Galeria
 
-![Zrzut 38 - Udział w quizie społecznym](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-38.jpg)
-![Zrzut 39 - Czasowe zbieżności transmisji](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-39.jpg)
-![Zrzut 40 - Komentarze na temat statystyk](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-40.jpg)
-![Zrzut 41 - Wypowiedzi publikowane](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-41.jpg)
-![Zrzut 42 - Dokumentacja komentarzy](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-42.jpg)
-![Zrzut 43 - Zmiana tłumaczenia](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-43.jpg)
-![Zrzut 44 - Powtarzające się schematy](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-44.jpg)
-![Zrzut 45 - Dyskusja o motywach](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-45.jpg)
-![Zrzut 46 - Analiza konfliktów](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-46.jpg)
-![Zrzut 47 - Obserwacje spo czności](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-47.jpg)
+![Zrzut 38 - Udział w quizie społecznym](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-38.png)
+![Zrzut 39 - Czasowe zbieżności transmisji](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-39.png)
+![Zrzut 40 - Komentarze na temat statystyk](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-40.png)
+![Zrzut 41 - Wypowiedzi publikowane](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-41.png)
+![Zrzut 42 - Dokumentacja komentarzy](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-42.png)
+![Zrzut 43 - Zmiana tłumaczenia](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-43.png)
+![Zrzut 44 - Powtarzające się schematy](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-44.png)
+![Zrzut 45 - Dyskusja o motywach](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-45.png)
+![Zrzut 46 - Analiza konfliktów](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-46.png)
+![Zrzut 47 - Obserwacje społeczności](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-47.png)
 ![Zrzut 48 - Dokumentacja zachowań](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-48.jpg)
-![Zrzut 49 - Komentarze analityczne](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-49.jpg)
-![Zrzut 50 - Podsumowanie problemu](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-50.jpg)
+![Zrzut 49 - Komentarze analityczne](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-49.png)
+![Zrzut 50 - Podsumowanie problemu](../../assets/screenshots/2026-03/2026-03-kaciki-zrzut-50.png)
 
 ---
 
