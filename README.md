@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/yosu-waffen-xn/mentor-docs/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/yosu-waffen-xn/mentor-docs/actions/workflows/pages/pages-build-deployment)
 # Szachowy Mentor Wiki
 
 Kompleksowa dokumentacja konfliktu wokół Szachowego Mentora (Aleksandra Radomskiego), obejmująca chronologię zdarzeń, zaangażowane postacie, aspekty finansowe, osobiste i społeczne.
